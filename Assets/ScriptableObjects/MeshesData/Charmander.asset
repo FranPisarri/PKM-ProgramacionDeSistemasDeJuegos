@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 001b2be365bd19d4d8223d00dbd12fa8, type: 3}
   m_Name: Charmander
   m_EditorClassIdentifier: 
-  frontSprite: {fileID: 0}
-  backSprite: {fileID: 0}
+  frontSprite: {fileID: 1750835494, guid: ce28bb46575be6d42b8d5a52549b6e8e, type: 3}
+  backSprite: {fileID: -1961349923, guid: 03deead33984d344ebbdda1318b03b91, type: 3}
   idleAnimation: {fileID: 0}
-  atackAnimation: {fileID: 0}
+  attackAnimation: {fileID: 0}
   damageAnimation: {fileID: 0}

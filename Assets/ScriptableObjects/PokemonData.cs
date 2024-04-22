@@ -10,6 +10,7 @@ public class PokemonData : ScriptableObject
     [SerializeField] private PokemonMeshesData meshes;          //All mesh
     [SerializeField] private MovesData[] moves;                 //Moves
     [SerializeField] private int[] lvlToLernMove;               //Lvl to lern each move
+    [SerializeField] private int evolveLvl;                     //Lvl to evlove (if the pokemon does not evolve select 101)
 
 
     public PokemonTypeData Type => type;

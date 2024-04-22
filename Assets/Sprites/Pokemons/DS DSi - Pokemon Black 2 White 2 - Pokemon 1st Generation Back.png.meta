@@ -1,0 +1,3995 @@
+fileFormatVersion: 2
+guid: 03deead33984d344ebbdda1318b03b91
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2170
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ae03df1438632419f9810a4a3f5c69
+      internalID: -21575633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2170
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f7575039f584645b5ec260746a696b
+      internalID: 929860763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2170
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaec0325d3df32942bbbd14f6dc467b2
+      internalID: 493119343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2170
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb23633c5e956b244887d7a98ea24676
+      internalID: 1995499318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2170
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d01d6cc09fbcb4d8a771b2b3656e23
+      internalID: -1961349923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2170
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984a7eb4c6fd5ee4c835bd2ba1170777
+      internalID: -713221585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2170
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac5ec9177e9b174db389633e83eb237
+      internalID: -1927324046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2170
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93b8a7fe1b0a0c42bd6de89455b67b5
+      internalID: 3879234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2067
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6509d57fd48958343bf69aa3d9bad566
+      internalID: 825372521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2067
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2bc42a8bf019149b258937f7068b2b
+      internalID: -1897119203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2067
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a372156b63cedf479b3c6c6e9d53c6a
+      internalID: -500621028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2067
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49d20b1a2d5b48489061fc30da85294
+      internalID: 901977726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2067
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ec61ea73127dd4a9581c77dfcb03ef
+      internalID: 63238319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_13
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2067
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220b930cb26870346a17bdf1c1f4a919
+      internalID: 163242659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_14
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2067
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8224796931732a34983f01ac9d7497f1
+      internalID: -1158004857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2067
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34440775897fa4b4bb01863eebb33888
+      internalID: 303957014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1964
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262b6c0ad0e057e45ac43e7a51faf208
+      internalID: 208227523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1964
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c13c4bcd16caaa4483c1b9a67a69ccc
+      internalID: 1562074548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1964
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35c6c0e1db6a5d43bb2bcf4485713ee
+      internalID: -1067148879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1964
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a219b5eaf9dc64daefc87b271bc5c3
+      internalID: -1909454899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1964
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d01f193031a98b4c9a15d3dd7dca7df
+      internalID: 1023694182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1964
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d75d6c5e1a7d964ab0bb716192b7e68
+      internalID: -1432338768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1964
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c718ea50dddc3418aecb5bd20e1e86
+      internalID: -1683589529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_23
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1964
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cbe53651cc1e2849aa35c5fad9ca410
+      internalID: 599671731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1861
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa4be838d340b147b9711cd20a5e131
+      internalID: -773108112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1861
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae7b1fa8b1b44642a2030aeb7b083a6
+      internalID: -1557688603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1861
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279d0246ec0c3e845a565b19b93daac8
+      internalID: 299473222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1861
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0d28cd3d8dc444a9159d11214fd77c
+      internalID: -937828999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1861
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac0f9b4bd794814bb0284b1b708ae46
+      internalID: -1266855643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_29
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1861
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1abf02942003e45a084d2270aeeaca
+      internalID: 879235352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_30
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1861
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796143b31fca3a7449f9047a49b68cfd
+      internalID: 400056154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_31
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1861
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224a75d41879e97459eaa02cc43070e8
+      internalID: 1856973230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1758
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc41226fa60c594cb1b5b984df037b0
+      internalID: 1825423488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1758
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6e73a53aebf924e885881c4d1ca72f
+      internalID: 1799730288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1758
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c139cb3b1ddef954aa0378ad1d38b199
+      internalID: 641453638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_35
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1758
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1974c3fd22d2748b9c3c3a081992e6
+      internalID: 820509700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1758
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18f6cdedf1976a43bfaf7b76def9314
+      internalID: 126621581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_37
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1758
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43259db20ae7b7d479270b807f1cb424
+      internalID: -1863424720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_38
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1758
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aedf91905faf73f479c09e99925af518
+      internalID: -359746523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_39
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1758
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be04279420b95645b18a0868b05ba8d
+      internalID: -194744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1655
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9506b2aa536e935459380789445f5a8e
+      internalID: -2003078811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1655
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae67144786dece4aba1aa8729c3fe2f
+      internalID: -1292198679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1655
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865ce36ef566cf94fa584cdf6fc0d349
+      internalID: 1828584642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1655
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3660f5bc87345429d828f04d518d30
+      internalID: 14660316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1655
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae0efc6de07a5b48ac4d08ab970020f
+      internalID: -103407052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_45
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1655
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac22467c8a8597247a0e8904484a1de3
+      internalID: -1125665659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_46
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1655
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcfa344188792a4da8b6c661d462b43
+      internalID: -1195290756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_47
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1655
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e4128010e447e4aa514c9d796e0285
+      internalID: -306466336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c463a182d50151408a69ae16d2d2e64
+      internalID: 1786305127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea0a7cdd4a9e8c43bf906e0ef005858
+      internalID: 255440192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b2af78a5335f741a7f09f09b478b79
+      internalID: -1252560808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f15940e5cff28b4fbc4875205e4a474
+      internalID: -798404991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d76ae2ec2f18b540868bef50f4fe8b1
+      internalID: -283835028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_53
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487334722cd7a4643ad55bbe4be97a49
+      internalID: -1626665075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_54
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89954bbd75362244aaa94ac510123785
+      internalID: 1093322228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_55
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1552
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadc6d24ce85d1448b42d528a07fe4f9
+      internalID: 1527640335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1449
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13c8ac49f0edf947a0e9dbff6acf4b8
+      internalID: 426915438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1449
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6695e8e2102edae42a567b2a8421fefd
+      internalID: -472119675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1449
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036812a699df43b4ab51302b28d53e8a
+      internalID: -1163306975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_59
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1449
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bdac93fdd9dbf489eb151d19b6ba9f
+      internalID: -325319105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1449
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ed2e98dd8b62a4c976eac164a31310
+      internalID: -1997001052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_61
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1449
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b886f874dc62b94bb065a7be927d6a3
+      internalID: 298586162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_62
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1449
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46903f5cfdae2f64f8d69bb5dfb47f36
+      internalID: -1117340739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_63
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1449
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57605f1cff9c29d45872e6ee8884af11
+      internalID: -1271123425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1346
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601a6a96e73a74b4999c55d6396e06c0
+      internalID: -1689340474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1346
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6b979449a16b04680fb359cd401fed
+      internalID: 156579751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1346
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8799e483ca7080d46bcf3eb4470b2c65
+      internalID: -784717538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_67
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1346
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818a5ccdfbb368e419d77439f3ee3651
+      internalID: -823407235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1346
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ddeec286f03a34295a0f0c084e5ada
+      internalID: 1627480288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_69
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1346
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e03f52758310cd45b3f40948767184d
+      internalID: -44190827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_70
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1346
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463ca30f97dcbad49b1489f696f0aac5
+      internalID: 195401369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_71
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1346
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea256006bba20f944bd6218341a79902
+      internalID: -1634315763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1243
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ed3d0b6bd3fca4db1541515694d323
+      internalID: -1276361983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1243
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc06b147cc8019543ad476097fb18b33
+      internalID: -609117139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_74
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1243
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275352f1ce179fc44a05b4299637ed35
+      internalID: 183170987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_75
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1243
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81c10a0ffd68e44a96cbc1adfaa825c
+      internalID: 744631450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1243
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e50176b125198e43846756960d39610
+      internalID: 1903418858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_77
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1243
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd1111b0f47e4348be544b9048c592e
+      internalID: 1996214261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_78
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1243
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f1f5fb321ffe1468882bafce1ba6ed
+      internalID: 775650132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_79
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1243
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb534c59f3ea8f4481b2bb2205fc9fd
+      internalID: -1708528233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1140
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbe05a46f6652540bd4b1b0dabd3461
+      internalID: -445378721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_81
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1140
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bbeb70bcafcec4ebba187cdaedab58
+      internalID: -619245179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_82
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1140
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9af7d4fc9e46a48a66d803a7891070
+      internalID: 1205859933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_83
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1140
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e78c55e74ca9f042b726993e9d5c000
+      internalID: 2093457894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1140
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5824cbfe8368cb94fb42ab7842c26b7b
+      internalID: -1619921546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_85
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1140
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef5fe4a5353782439f96bfd3e162284
+      internalID: 518621806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_86
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1140
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fb5b4e025fd8c4384162b97e677a51
+      internalID: 758232116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_87
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1140
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a395631d17241e4eb64165ef8f54d37
+      internalID: 809455360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1037
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5ba3ac343e6dd4390246f139fb0fdb
+      internalID: -2008727012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_89
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1037
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab90ab52f721f0f4ba60dd2054831daf
+      internalID: -30267681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1037
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3391ed5cabcc9cf498307241f4b951d3
+      internalID: 2099683215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_91
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1037
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372666e0e97eafa4f94fa18d3d53a0aa
+      internalID: -635814159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1037
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83e09fd1d915324389297e661fb50c5
+      internalID: -1014477708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_93
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1037
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e007b064c9b7e374a982c223fa4800ea
+      internalID: 826189047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_94
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1037
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a172c8885caf6304b8c1bf51930e4af8
+      internalID: 297545497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_95
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1037
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ca3236d88211e47a61c0558c3734a7
+      internalID: 1129962994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 934
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bf373069ace9045af7cd0fe6a10430
+      internalID: 191080352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_97
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 934
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a0eedd389e8ae478994fc8cff62667
+      internalID: -2106810222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_98
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 934
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef55b9c01f98044bb4ecc5d75e83b07
+      internalID: 1686021483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_99
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 934
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c274cbf8309cbaa4ca7a138b5526d971
+      internalID: -1506686394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_100
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 934
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad8d27a2ab3d174b8f6ec4a5cb0fbd1
+      internalID: -896024012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_101
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 934
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0690d4e286e4334ba419e647e764509
+      internalID: 888571209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_102
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 934
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3894fedac332b43845cfd937b64abb
+      internalID: 579896895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_103
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 934
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefa7ed00245c3546bde39ec840bb154
+      internalID: 1527292309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 831
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dcb8e9277fa204e9ae0a3c3c94b98b
+      internalID: -1290087490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_105
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 831
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc555cbf71718a1459a1ded89e8e571b
+      internalID: -68279840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_106
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 831
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28b528e2c42b7f4786a100833b41e7a
+      internalID: -2141292027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_107
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 831
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103e0da661768164ea3703d0947be521
+      internalID: 2009719540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 831
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7e4785f2c077b4b92870005eed6d6e
+      internalID: -721147875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_109
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 831
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f21a09a5e915247be8c68fd65ed1bf
+      internalID: 518117596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_110
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 831
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0908a42de9f024098ff05c120788bb
+      internalID: 240444179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_111
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 831
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b1b80e59f44434ebb4466f0637a40b
+      internalID: 304629166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2106e4396d0de5549bbbf5655165fc7e
+      internalID: 576435620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 728
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7ce7d13130bb14a9c4b1fcd5471201
+      internalID: -569339782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_114
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 728
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266b7fff08662264a9db50078f6c6d36
+      internalID: -1273454736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_115
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 728
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcca8dfed283dc46b82411f022d6311
+      internalID: 2062000275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_116
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 728
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2da408200ccf6f4a9d872ab22a8d979
+      internalID: 208155094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_117
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 728
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a9cf36562820b46a1b222a2c851657
+      internalID: -1600631053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_118
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 728
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3ea82c70b5e1541a9e2c6a6fce0062
+      internalID: -1571713456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_119
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 728
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a762e5c6916f34e99bc0b6aec48a12
+      internalID: 805189428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 625
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a8fb937726f23488fdbe20bfdce1f2
+      internalID: -1007356261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_121
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 625
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd437a057338a5e41b90677dc39cbe1c
+      internalID: -1020762531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_122
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 625
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e923cd804d3764696e3d30e93ca801
+      internalID: 803535772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_123
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 625
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb3e343ef2be4946824c6a12c5addec
+      internalID: -149800518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 625
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67310a331bfdd7a4ebd20416154e36c4
+      internalID: 1921800136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_125
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 625
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfb6bfb96725494a95a832a17b44509
+      internalID: 955405132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_126
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 625
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04efdfd97217ce64e8e3fcaa5557eb10
+      internalID: -1325600156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_127
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 625
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2075a6d3df02c9648b0edf186704d18a
+      internalID: -369125551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 522
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd9ca4821e25fa42a0070e9f42c0613
+      internalID: -1801959817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 522
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d40efc36a16544d9f240bc480d261d
+      internalID: -493297465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_130
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 522
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e66d7e40041544a8566cd0add510e2
+      internalID: -1177303405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_131
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 522
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396a8b1b7c71e8349b0344b528301a50
+      internalID: 49151031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_132
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 522
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba56920e130fe3d4f9546145ecdd377e
+      internalID: -1816610293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_133
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 522
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e552194d2a1c1314cae04e385fa21806
+      internalID: -1610906707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_134
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 522
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0a6b536fbdacf47a3555790d87233f
+      internalID: -1556980434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_135
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 522
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30309d1f555dac47908c38e09cd4db0
+      internalID: -2117596203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 419
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db22963138b9fc946bb2fb7456d1960f
+      internalID: 366792049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_137
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 419
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec99c7f82290e741a9a5b54f930b3c2
+      internalID: -1543526265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_138
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 419
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04860f1c63f27f4fa022bc272a31563
+      internalID: -1252003025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_139
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 419
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1c6567da55a3a40a72d4b8551420c3
+      internalID: -1378373692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 419
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06a3de1fbd21d24883f3875f6a060f8
+      internalID: -494483429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_141
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 419
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0464bb29834cf40b96146105dac859
+      internalID: -582240564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 419
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30f34abd9f966646a4ab40594f6b0c3
+      internalID: -2102978951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_143
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 419
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c20aa1e2742afd4e91458b478ca6639
+      internalID: 1696296343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311e7d2d5db14ac41939e071f3cb27d4
+      internalID: 1475503120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_145
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 316
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753eb1b989f58bd41a88437ac495cdea
+      internalID: -2071521230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_146
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 316
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8a6686aa1924345a01abdbb896a15c
+      internalID: -1544695941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_147
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 316
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e147bb3170b7e714a97761daa667abe3
+      internalID: 1904720449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_148
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 316
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16bd9db573e0364a94e974d77c10690
+      internalID: 797621658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_149
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 316
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69738703dcebef3489c8a270d67430dc
+      internalID: -1047630194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_150
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 316
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c082b76937d9a44ab81e1ef05eed857
+      internalID: -1952977335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_151
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 316
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15066e50f41a92148b960e2a36a7deaf
+      internalID: 282151305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6254441498221d4468484d18fe71bbc6
+      internalID: -1175737994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_153
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 213
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d24328e87cf8b489cf7ab79d373cb2
+      internalID: -1102428474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_154
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 213
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cf425bbd1e71f48847a3204108dfd3
+      internalID: -1677157537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_155
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 213
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6ef95ba7304594e97c5705240a8ee0
+      internalID: 2032760453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 213
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecba9d8f8a8211448c8e1b483b19965
+      internalID: 2045207697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_157
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 213
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f885c4bea607d4b9445f55451b8cf7
+      internalID: -505157822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_158
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 213
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5687d51c29ccc24489416ecc0d95b1bd
+      internalID: -2034668269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_159
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 213
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f564fe5d3678c2043a36f30dd6cf2396
+      internalID: 1105992282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb797415fa6b284393af6916e25a977
+      internalID: 482900310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_161
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 110
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abd1634c91f29b47a76d85b612db5dc
+      internalID: 820581535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 110
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d01a6d9b33e1e4094e76ca34d314ce
+      internalID: 1906607388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_163
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 110
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d71bca77a8c37b4998f7b8b445fdaa5
+      internalID: -135231105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_164
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 110
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1560fe5412982bd48b56c02f0f19be83
+      internalID: -201778860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_165
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 110
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c32fec9bbee9c41ab57248c19a101f
+      internalID: 1697663149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_166
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 110
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045b03b8a2f86c54d890d8f53b66564f
+      internalID: -347041264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_167
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 110
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b031f1e09c8d5c4cad7972026aaddd7
+      internalID: 1628756182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86924424245b32469b4fd6cc109a07c
+      internalID: -290232327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_169
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 7
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ffa0a32be0a96448a1d42935ab3613
+      internalID: -57248262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_170
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 7
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80218c937d4739f4cbb78365cc9e3d68
+      internalID: -1328927985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_171
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 7
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424e4ee6153e8e246a6c7c786df1c959
+      internalID: 970336749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 7
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215cf2699de66a44580b8d6c56be3c76
+      internalID: 1384553487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_173
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 7
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8945b737439e0e48907d9bd42879824
+      internalID: -1948338305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_174
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 7
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9668f03a2d5df164080a93c81cd7e4b0
+      internalID: -1260346914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_175
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 7
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fc93c7df486c849a7287e8da508e55
+      internalID: -732114147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_0: -21575633
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_1: 929860763
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_10: -500621028
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_100: -896024012
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_101: 888571209
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_102: 579896895
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_103: 1527292309
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_104: -1290087490
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_105: -68279840
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_106: -2141292027
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_107: 2009719540
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_108: -721147875
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_109: 518117596
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_11: 901977726
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_110: 240444179
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_111: 304629166
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_112: 576435620
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_113: -569339782
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_114: -1273454736
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_115: 2062000275
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_116: 208155094
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_117: -1600631053
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_118: -1571713456
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_119: 805189428
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_12: 63238319
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_120: -1007356261
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_121: -1020762531
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_122: 803535772
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_123: -149800518
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_124: 1921800136
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_125: 955405132
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_126: -1325600156
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_127: -369125551
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_128: -1801959817
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_129: -493297465
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_13: 163242659
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_130: -1177303405
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_131: 49151031
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_132: -1816610293
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_133: -1610906707
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_134: -1556980434
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_135: -2117596203
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_136: 366792049
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_137: -1543526265
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_138: -1252003025
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_139: -1378373692
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_14: -1158004857
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_140: -494483429
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_141: -582240564
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_142: -2102978951
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_143: 1696296343
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_144: 1475503120
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_145: -2071521230
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_146: -1544695941
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_147: 1904720449
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_148: 797621658
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_149: -1047630194
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_15: 303957014
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_150: -1952977335
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_151: 282151305
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_152: -1175737994
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_153: -1102428474
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_154: -1677157537
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_155: 2032760453
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_156: 2045207697
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_157: -505157822
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_158: -2034668269
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_159: 1105992282
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_16: 208227523
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_160: 482900310
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_161: 820581535
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_162: 1906607388
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_163: -135231105
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_164: -201778860
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_165: 1697663149
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_166: -347041264
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_167: 1628756182
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_168: -290232327
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_169: -57248262
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_17: 1562074548
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_170: -1328927985
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_171: 970336749
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_172: 1384553487
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_173: -1948338305
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_174: -1260346914
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_175: -732114147
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_18: -1067148879
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_19: -1909454899
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_2: 493119343
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_20: 1023694182
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_21: -1432338768
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_22: -1683589529
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_23: 599671731
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_24: -773108112
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_25: -1557688603
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_26: 299473222
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_27: -937828999
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_28: -1266855643
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_29: 879235352
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_3: 1995499318
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_30: 400056154
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_31: 1856973230
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_32: 1825423488
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_33: 1799730288
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_34: 641453638
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_35: 820509700
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_36: 126621581
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_37: -1863424720
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_38: -359746523
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_39: -194744
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_4: -1961349923
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_40: -2003078811
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_41: -1292198679
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_42: 1828584642
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_43: 14660316
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_44: -103407052
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_45: -1125665659
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_46: -1195290756
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_47: -306466336
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_48: 1786305127
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_49: 255440192
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_5: -713221585
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_50: -1252560808
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_51: -798404991
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_52: -283835028
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_53: -1626665075
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_54: 1093322228
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_55: 1527640335
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_56: 426915438
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_57: -472119675
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_58: -1163306975
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_59: -325319105
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_6: -1927324046
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_60: -1997001052
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_61: 298586162
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_62: -1117340739
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_63: -1271123425
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_64: -1689340474
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_65: 156579751
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_66: -784717538
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_67: -823407235
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_68: 1627480288
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_69: -44190827
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_7: 3879234
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_70: 195401369
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_71: -1634315763
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_72: -1276361983
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_73: -609117139
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_74: 183170987
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_75: 744631450
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_76: 1903418858
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_77: 1996214261
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_78: 775650132
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_79: -1708528233
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_8: 825372521
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_80: -445378721
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_81: -619245179
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_82: 1205859933
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_83: 2093457894
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_84: -1619921546
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_85: 518621806
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_86: 758232116
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_87: 809455360
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_88: -2008727012
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_89: -30267681
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_9: -1897119203
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_90: 2099683215
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_91: -635814159
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_92: -1014477708
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_93: 826189047
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_94: 297545497
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_95: 1129962994
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_96: 191080352
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_97: -2106810222
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_98: 1686021483
+      DS DSi - Pokemon Black 2 White 2 - Pokemon 1st Generation Back_99: -1506686394
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

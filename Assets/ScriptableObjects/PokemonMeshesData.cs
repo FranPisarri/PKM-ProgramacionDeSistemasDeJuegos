@@ -6,13 +6,16 @@ public class PokemonMeshesData : ScriptableObject
 {
     [SerializeField] private Sprite frontSprite;
     [SerializeField] private Sprite backSprite;
+    [SerializeField] private Animator frontAnimations;
+    [SerializeField] private Animator backAnimations;
+
     [SerializeField] private Animation idleAnimation;
     [SerializeField] private Animation attackAnimation;
     [SerializeField] private Animation damageAnimation;
 
     public Sprite FrontSprite => frontSprite;
     public Sprite BackSprite => backSprite;
-    public Animation IdleAnimation => idleAnimation;
-    public Animation AttackAnimation => attackAnimation;
-    public Animation DamageAnimation => damageAnimation;
+    public Animator IdleAnimation => frontAnimations;
+    public Animator AttackAnimation => backAnimations;
+    
 }
