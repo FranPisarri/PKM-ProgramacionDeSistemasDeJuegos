@@ -1,0 +1,1930 @@
+fileFormatVersion: 2
+guid: bb2d0b3eb156cdc44ae4119955208010
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 459
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9504f4a0d76511940a773b3d08f87019
+      internalID: 272414168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 459
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1aa3c4358950a42b242858b0b1d04e
+      internalID: 1311448901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 459
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b887230c5ff5b9b48a6402f2e3827fea
+      internalID: -1147767316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_6
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 459
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ccd63305bed6fe44b6bf8bc7c5490a8
+      internalID: -89394111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 459
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1187af1ba666de646b9d5213f1f93854
+      internalID: -142256314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 459
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e2b1c95dd67444ebf50539265f40e4
+      internalID: -1246262262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 459
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c9a55e840bd6e4ea16addb4130f3f7
+      internalID: -2087335628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_10
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 459
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c9d2416262a0744bed55478f021e6e
+      internalID: 1430807435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 459
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9495ea44991c73f4e91d1da6fe998dc1
+      internalID: 909963605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_12
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 459
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334414508dc51ce4bbfd1266d4232c0f
+      internalID: -56943083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 403
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ca02f9cfafa5e45848906d24600c5e
+      internalID: 1717733489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_14
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 403
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1342e7997d8368458f80a6333ccb8e1
+      internalID: -851176115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 403
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837c9a7631bf68e4b93696d40864262d
+      internalID: 1559106500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_16
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 403
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d466d068e5eb0a04688e6f6ad5fb7761
+      internalID: 129685172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_17
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 403
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2210a9399ce7e0b49b7fedf56adc2956
+      internalID: 1312986800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_18
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 403
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959142b0634bad24cb4e3b09c6f72f3f
+      internalID: 1774195779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 403
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1460db69b1175408c7742980a8db36
+      internalID: -3300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_20
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 403
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade7492aaec06b34aa54f21cc722de42
+      internalID: -241755914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_21
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 403
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4183eb326f0bb8b40b67dfe6b06e94bb
+      internalID: -1887964743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_22
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 403
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bc0970d5aa0dc4284724f4d9404c3f
+      internalID: -1740543831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 347
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af26d80c91db4f4e8e287d047b2a35d
+      internalID: 1566601285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 347
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fe1b6c516760646a2b2d32c848d182
+      internalID: 603876514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 347
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882c0228fa118ab4da094dee6aa1ce21
+      internalID: 685957016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_26
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 347
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cdb3931cfc2f14ba81e82ed3b641b3
+      internalID: -1474647671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_27
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 347
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c68dfe669d4dbc429d6975f97a01915
+      internalID: -341978726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_28
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 347
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53b375d74fece34392833a5be5ac68f
+      internalID: -1637476220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_29
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 347
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6c464afd504634e920d4bed2ae7407
+      internalID: 886181977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 347
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713a82b9175fa244d9b47415b057a91c
+      internalID: 1402095304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_31
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 347
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bc33356510c6d41a27cedbd1931e7a
+      internalID: -1185189755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_32
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 347
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc26173777de6d3409bd994f24127cd3
+      internalID: -2057357860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 296
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e581defd84c0fd42b752422b2c5dc60
+      internalID: 53106153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_34
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 296
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f1751c931d64e49882faa8db723be9
+      internalID: -1891275088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_35
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 296
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cfb0cdd7a781847adff25a9a3c3dbf
+      internalID: 1195816901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_36
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 296
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0482adb04e60067428b4bf3a8837ad85
+      internalID: 2008962134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_37
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 296
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882082867645198489f4032fbdd485a1
+      internalID: 1327887044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_38
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 296
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad840c9f1dc07d240b0c44d5ca30a4eb
+      internalID: -867448121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_39
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 296
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f7530cbc5114645931bc74e09f451c
+      internalID: 792506693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_40
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 296
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded4fc949d66e0442bedba769e486bbd
+      internalID: 271074259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_41
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 296
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5c4e4715c99fd4895b0c42fb12a9f8
+      internalID: 635535710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_42
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 296
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ead5d42d2d28c144926665dfd169b98
+      internalID: 754981932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_43
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 244
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093af8e17374d224baef3bfc0c3eb664
+      internalID: 669647120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_44
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 244
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30a1aee4afcccb44ac066391ff9f9a0
+      internalID: 1824872040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_45
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 182
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae84b177855359e4ca4a6ae72cba461b
+      internalID: 1795137668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_46
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 182
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bc47aab978fc14cad703fd55d04c32
+      internalID: -1913001970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_47
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 182
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce6b3295a7829c41b32f065448922fa
+      internalID: -825540740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_48
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 182
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c6fc387a3a6c64d9b010f6ee7aca1c
+      internalID: -403349981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_49
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 182
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da457d0ecc723c64bb520861e8c5ed41
+      internalID: -570059972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_50
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 182
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071ada5e2332ae944ab6f1462fe0c394
+      internalID: 1765945300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_51
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 182
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65da5b97291f30647b476c3498c2ca05
+      internalID: 1556867046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_52
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 182
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc41c0c3a0a3374469ed5d81efea2dd8
+      internalID: 1887662457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_53
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 182
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008a6133c899b2a41ab6127a581d01d1
+      internalID: 211718044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_54
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 182
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0819f470026e1634ba13d178a5cfd223
+      internalID: -518126635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_55
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 123
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72802f15b6f0ce4b948b63debe5b321
+      internalID: 548245039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_56
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 123
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3d43eb9c1423e4cb8a1575ccc6a4cf
+      internalID: 1437342381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_57
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 123
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ada0ccae006f4a4f9e4792822903b93
+      internalID: 119321867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_58
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 123
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214c3854dad35dd41b3e87bd108f680e
+      internalID: -2143609181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_59
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 123
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b6a8b22a0d3c542a1027831dfd14a1
+      internalID: -584773941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_60
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 123
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b9d4968bff5c547aa24ce1c8d40164
+      internalID: -849915166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_61
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 123
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e9e1385efbd9f45bbeea92970f1351
+      internalID: -258617002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_62
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 123
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0cf80bf909b5e4c91e6fc843e17b1c
+      internalID: -1389921019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_63
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 123
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cd75c4b1019ab4197155a34f1af11d
+      internalID: -1270903435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_64
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 123
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2766229d9ce1d4caac676e41b6555f
+      internalID: -1588949976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_65
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 67
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d87ab68cd835c48aa65e0b76c0e008
+      internalID: 1050595397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_66
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 67
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7ff314fa75a374484a262c1f744b0c
+      internalID: 340979490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_67
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 67
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291fe22f0a176da49a68f49d33447b24
+      internalID: 847209820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_68
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 67
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c122b432d29394346861760f53b358b8
+      internalID: -1534756486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_69
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 67
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1199f5028e62044e8e712a1469b1be6
+      internalID: -1991401575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_70
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 67
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874a4e345e0bef1448c15533b459a615
+      internalID: -1727498766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_71
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 67
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9318b6a35197045b30766f8b2f2e67
+      internalID: -1237582642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_72
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 67
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb33ccb7a33773d4f927e967b0afe13e
+      internalID: 301754534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_73
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 67
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595bbc05e5a07c44b8d8e6dc18559157
+      internalID: -1547127575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 67
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c491a6aebf9710e4f8f4063b0240122d
+      internalID: 557445700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_75
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 13
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4738bbdf1b8c04ca457fbd0dd291e8
+      internalID: -1880629092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_76
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 13
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba292399a4d79c43b84120be8eb741f
+      internalID: 815889339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_77
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 13
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe80f8229cbde844b4775618a6ac1c2
+      internalID: 628960191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_78
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 13
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39393eb920305942804f01ae4b73e21
+      internalID: -1664102268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_79
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 13
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02d7c6ed33ecaf428344e96854452d2
+      internalID: 700370875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_80
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 13
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6979a2aae8ec68049a59e090aa1e5d8e
+      internalID: 621596175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_81
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 13
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393e490653d8ed645a121bb2327ba35c
+      internalID: 826303952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_82
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 13
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3a043498c16ed4dbb2faf21337c5ea
+      internalID: -1089923519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_83
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 13
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeb4b79110e5eb469f7682f17f82e30
+      internalID: -173778874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 004 Charmander 1_84
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 13
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4968cace9cd447459b4442662c0b757
+      internalID: 1121182554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Pokemon Black White - 004 Charmander 1_0: 1487197924
+      DS DSi - Pokemon Black White - 004 Charmander 1_1: -504637476
+      DS DSi - Pokemon Black White - 004 Charmander 1_10: 1430807435
+      DS DSi - Pokemon Black White - 004 Charmander 1_11: 909963605
+      DS DSi - Pokemon Black White - 004 Charmander 1_12: -56943083
+      DS DSi - Pokemon Black White - 004 Charmander 1_13: 1717733489
+      DS DSi - Pokemon Black White - 004 Charmander 1_14: -851176115
+      DS DSi - Pokemon Black White - 004 Charmander 1_15: 1559106500
+      DS DSi - Pokemon Black White - 004 Charmander 1_16: 129685172
+      DS DSi - Pokemon Black White - 004 Charmander 1_17: 1312986800
+      DS DSi - Pokemon Black White - 004 Charmander 1_18: 1774195779
+      DS DSi - Pokemon Black White - 004 Charmander 1_19: -3300076
+      DS DSi - Pokemon Black White - 004 Charmander 1_2: 1863902562
+      DS DSi - Pokemon Black White - 004 Charmander 1_20: -241755914
+      DS DSi - Pokemon Black White - 004 Charmander 1_21: -1887964743
+      DS DSi - Pokemon Black White - 004 Charmander 1_22: -1740543831
+      DS DSi - Pokemon Black White - 004 Charmander 1_23: 1566601285
+      DS DSi - Pokemon Black White - 004 Charmander 1_24: 603876514
+      DS DSi - Pokemon Black White - 004 Charmander 1_25: 685957016
+      DS DSi - Pokemon Black White - 004 Charmander 1_26: -1474647671
+      DS DSi - Pokemon Black White - 004 Charmander 1_27: -341978726
+      DS DSi - Pokemon Black White - 004 Charmander 1_28: -1637476220
+      DS DSi - Pokemon Black White - 004 Charmander 1_29: 886181977
+      DS DSi - Pokemon Black White - 004 Charmander 1_3: 272414168
+      DS DSi - Pokemon Black White - 004 Charmander 1_30: 1402095304
+      DS DSi - Pokemon Black White - 004 Charmander 1_31: -1185189755
+      DS DSi - Pokemon Black White - 004 Charmander 1_32: -2057357860
+      DS DSi - Pokemon Black White - 004 Charmander 1_33: 53106153
+      DS DSi - Pokemon Black White - 004 Charmander 1_34: -1891275088
+      DS DSi - Pokemon Black White - 004 Charmander 1_35: 1195816901
+      DS DSi - Pokemon Black White - 004 Charmander 1_36: 2008962134
+      DS DSi - Pokemon Black White - 004 Charmander 1_37: 1327887044
+      DS DSi - Pokemon Black White - 004 Charmander 1_38: -867448121
+      DS DSi - Pokemon Black White - 004 Charmander 1_39: 792506693
+      DS DSi - Pokemon Black White - 004 Charmander 1_4: 1311448901
+      DS DSi - Pokemon Black White - 004 Charmander 1_40: 271074259
+      DS DSi - Pokemon Black White - 004 Charmander 1_41: 635535710
+      DS DSi - Pokemon Black White - 004 Charmander 1_42: 754981932
+      DS DSi - Pokemon Black White - 004 Charmander 1_43: 669647120
+      DS DSi - Pokemon Black White - 004 Charmander 1_44: 1824872040
+      DS DSi - Pokemon Black White - 004 Charmander 1_45: 1795137668
+      DS DSi - Pokemon Black White - 004 Charmander 1_46: -1913001970
+      DS DSi - Pokemon Black White - 004 Charmander 1_47: -825540740
+      DS DSi - Pokemon Black White - 004 Charmander 1_48: -403349981
+      DS DSi - Pokemon Black White - 004 Charmander 1_49: -570059972
+      DS DSi - Pokemon Black White - 004 Charmander 1_5: -1147767316
+      DS DSi - Pokemon Black White - 004 Charmander 1_50: 1765945300
+      DS DSi - Pokemon Black White - 004 Charmander 1_51: 1556867046
+      DS DSi - Pokemon Black White - 004 Charmander 1_52: 1887662457
+      DS DSi - Pokemon Black White - 004 Charmander 1_53: 211718044
+      DS DSi - Pokemon Black White - 004 Charmander 1_54: -518126635
+      DS DSi - Pokemon Black White - 004 Charmander 1_55: 548245039
+      DS DSi - Pokemon Black White - 004 Charmander 1_56: 1437342381
+      DS DSi - Pokemon Black White - 004 Charmander 1_57: 119321867
+      DS DSi - Pokemon Black White - 004 Charmander 1_58: -2143609181
+      DS DSi - Pokemon Black White - 004 Charmander 1_59: -584773941
+      DS DSi - Pokemon Black White - 004 Charmander 1_6: -89394111
+      DS DSi - Pokemon Black White - 004 Charmander 1_60: -849915166
+      DS DSi - Pokemon Black White - 004 Charmander 1_61: -258617002
+      DS DSi - Pokemon Black White - 004 Charmander 1_62: -1389921019
+      DS DSi - Pokemon Black White - 004 Charmander 1_63: -1270903435
+      DS DSi - Pokemon Black White - 004 Charmander 1_64: -1588949976
+      DS DSi - Pokemon Black White - 004 Charmander 1_65: 1050595397
+      DS DSi - Pokemon Black White - 004 Charmander 1_66: 340979490
+      DS DSi - Pokemon Black White - 004 Charmander 1_67: 847209820
+      DS DSi - Pokemon Black White - 004 Charmander 1_68: -1534756486
+      DS DSi - Pokemon Black White - 004 Charmander 1_69: -1991401575
+      DS DSi - Pokemon Black White - 004 Charmander 1_7: -142256314
+      DS DSi - Pokemon Black White - 004 Charmander 1_70: -1727498766
+      DS DSi - Pokemon Black White - 004 Charmander 1_71: -1237582642
+      DS DSi - Pokemon Black White - 004 Charmander 1_72: 301754534
+      DS DSi - Pokemon Black White - 004 Charmander 1_73: -1547127575
+      DS DSi - Pokemon Black White - 004 Charmander 1_74: 557445700
+      DS DSi - Pokemon Black White - 004 Charmander 1_75: -1880629092
+      DS DSi - Pokemon Black White - 004 Charmander 1_76: 815889339
+      DS DSi - Pokemon Black White - 004 Charmander 1_77: 628960191
+      DS DSi - Pokemon Black White - 004 Charmander 1_78: -1664102268
+      DS DSi - Pokemon Black White - 004 Charmander 1_79: 700370875
+      DS DSi - Pokemon Black White - 004 Charmander 1_8: -1246262262
+      DS DSi - Pokemon Black White - 004 Charmander 1_80: 621596175
+      DS DSi - Pokemon Black White - 004 Charmander 1_81: 826303952
+      DS DSi - Pokemon Black White - 004 Charmander 1_82: -1089923519
+      DS DSi - Pokemon Black White - 004 Charmander 1_83: -173778874
+      DS DSi - Pokemon Black White - 004 Charmander 1_84: 1121182554
+      DS DSi - Pokemon Black White - 004 Charmander 1_9: -2087335628
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

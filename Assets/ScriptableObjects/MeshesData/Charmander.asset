@@ -14,6 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   frontSprite: {fileID: 1750835494, guid: ce28bb46575be6d42b8d5a52549b6e8e, type: 3}
   backSprite: {fileID: -1961349923, guid: 03deead33984d344ebbdda1318b03b91, type: 3}
-  idleAnimation: {fileID: 0}
-  attackAnimation: {fileID: 0}
-  damageAnimation: {fileID: 0}
+  frontAnimations: {fileID: 9100000, guid: 779343ca966f6f040bfed0d4c0532d59, type: 2}
+  backAnimations: {fileID: 9100000, guid: 1890f59c167ffd64bb1fa5afaa03681a, type: 2}
