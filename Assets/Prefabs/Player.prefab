@@ -304,6 +304,7 @@ GameObject:
   - component: {fileID: 4330555936635605047}
   - component: {fileID: 1195217646048105929}
   - component: {fileID: -4633564707941101510}
+  - component: {fileID: 9209184437082323501}
   m_Layer: 6
   m_Name: Player
   m_TagString: Player
@@ -405,6 +406,7 @@ MonoBehaviour:
   animCap: {fileID: 4338101034677560450}
   sprite: {fileID: 4330555936635605046}
   spriteCap: {fileID: 7101876381558141053}
+  _inputManager: {fileID: 9209184437082323501}
 --- !u!95 &1195217646048105929
 Animator:
   serializedVersion: 5
@@ -452,6 +454,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.14, y: 0.08}
   m_EdgeRadius: 0
+--- !u!114 &9209184437082323501
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4330555936635605044}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fb8bfa064bdac04cb667a1818bd7799, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4330555936886620251
 GameObject:
   m_ObjectHideFlags: 0

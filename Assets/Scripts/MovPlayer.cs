@@ -22,6 +22,8 @@ public class MovPlayer : MonoBehaviour
     public SpriteRenderer sprite;
     public SpriteRenderer spriteCap;
 
+    public InputManager _inputManager;
+
     private void Awake()
     {
         if (Instance == null)
@@ -47,7 +49,7 @@ public class MovPlayer : MonoBehaviour
     {
         transform.position = Vector3.MoveTowards(transform.position, movePoint.position, moveSpeed * Time.deltaTime);
 
-        
+
         if (Vector3.Distance(transform.position, movePoint.position) == 0f)
         {
             float movementH = Input.GetAxisRaw("Horizontal");
@@ -68,8 +70,70 @@ public class MovPlayer : MonoBehaviour
 
 
             }
+        }
+
+        switch(_inputManager.MDiections)
+        {
+            case Directions.Stay:
+
+                anim.SetBool("MovLeft", false);
+                animCap.SetBool("MovLeft", false);
+
+                anim.SetBool("MovDown", false);
+                anim.SetBool("MovUp", false);
+
+                animCap.SetBool("MovUp", false);
+                animCap.SetBool("MovDown", false);
+                break;
+            case Directions.Up:
+                anim.SetBool("MovDown", false);
+                anim.SetBool("MovUp", true);
+
+                animCap.SetBool("MovDown", false);
+                animCap.SetBool("MovUp", true);
+
+                anim.SetBool("MovLeft", false);
+                animCap.SetBool("MovLeft", false);
+                break;
+            case Directions.Down:
+                anim.SetBool("MovUp", false);
+                anim.SetBool("MovDown", true);
+
+                animCap.SetBool("MovUp", false);
+                animCap.SetBool("MovDown", true);
+
+                anim.SetBool("MovLeft", false);
+                animCap.SetBool("MovLeft", false);
+                break;
+            case Directions.Left:
+                sprite.flipX = false;
+                spriteCap.flipX = false;
+                anim.SetBool("MovLeft", true);
+                animCap.SetBool("MovLeft", true);
 
 
+                anim.SetBool("MovDown", false);
+                anim.SetBool("MovUp", false);
+
+                animCap.SetBool("MovUp", false);
+                animCap.SetBool("MovDown", false);
+                break;
+            case Directions.Right:
+                sprite.flipX = true;
+                spriteCap.flipX = true;
+                anim.SetBool("MovLeft", true);
+                animCap.SetBool("MovLeft", true);
+
+
+                anim.SetBool("MovDown", false);
+                anim.SetBool("MovUp", false);
+
+                animCap.SetBool("MovUp", false);
+                animCap.SetBool("MovDown", false);
+                break;
+
+        }
+        /*
             if (movementH < 0f)
             {
                 sprite.flipX = false;
@@ -117,7 +181,7 @@ public class MovPlayer : MonoBehaviour
                 animCap.SetBool("MovUp", false);
                 animCap.SetBool("MovDown", false);
             }
-        }/*
+        
         else
         {
             anim.SetBool("MovDown", false);
@@ -130,8 +194,8 @@ public class MovPlayer : MonoBehaviour
 
     public void SetPosition(Vector3 NewPosition)
     {
-        transform.position = NewPosition;
         movePoint.position = NewPosition;
+        transform.position = NewPosition;
 
     }
 }
