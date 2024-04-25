@@ -7,6 +7,8 @@ public class SelectPKMMenu : MonoBehaviour
     [SerializeField] private GameObject battleButtons;
     [SerializeField] private GameObject changePKMButtons;
 
+    [SerializeField] private GameObject playerHealthShow;
+    [SerializeField] private GameObject enemyHealthShow;
 
     private void Update()
     {
@@ -18,6 +20,8 @@ public class SelectPKMMenu : MonoBehaviour
     public void ChangeToBattleMenu()
     {
         battleButtons.SetActive(true);
+        playerHealthShow.SetActive(true);
+        enemyHealthShow.SetActive(true);
         changePKMButtons.SetActive(false);
     }
 
