@@ -4,6 +4,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Events;
 
 
 public class MovPlayer : MonoBehaviour
@@ -23,6 +24,8 @@ public class MovPlayer : MonoBehaviour
     public SpriteRenderer spriteCap;
 
     public InputManager _inputManager;
+
+    public UnityEvent Walk = new UnityEvent();
 
     private void Awake()
     {
@@ -58,13 +61,16 @@ public class MovPlayer : MonoBehaviour
             {
                 if (!Physics2D.OverlapCircle(movePoint.position + new Vector3(movementH * 0.16f, 0f, 0f), .05f, whatStopsMovement))
                 {
+                    Walk.Invoke();
                     movePoint.position += new Vector3(movementH * 0.16f, 0f, 0f);
+
                 }
             }
             else if (Mathf.Abs(movementV) == 1f)
             {
                 if (!Physics2D.OverlapCircle(movePoint.position + new Vector3(0f, movementV * 0.16f, 0f), .05f, whatStopsMovement))
                 {
+                    Walk.Invoke();
                     movePoint.position += new Vector3(0f, movementV * 0.16f, 0f);
                 }
 
