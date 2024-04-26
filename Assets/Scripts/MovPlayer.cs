@@ -133,62 +133,6 @@ public class MovPlayer : MonoBehaviour
                 break;
 
         }
-        /*
-            if (movementH < 0f)
-            {
-                sprite.flipX = false;
-                spriteCap.flipX = false;
-                anim.SetBool("MovLeft", true);
-
-                animCap.SetBool("MovLeft", true);
-            }
-            else if (movementH > 0)
-            {
-                sprite.flipX = true;
-                spriteCap.flipX = true;
-                anim.SetBool("MovLeft", true);
-
-                animCap.SetBool("MovLeft", true);
-            }
-            else
-            {
-                anim.SetBool("MovLeft", false);
-
-                animCap.SetBool("MovLeft", false);
-            }
-
-            if (movementV < 0f)
-            {
-                anim.SetBool("MovUp", false);
-                anim.SetBool("MovDown", true);
-
-                animCap.SetBool("MovUp", false);
-                animCap.SetBool("MovDown", true);
-            }
-            else if (movementV > 0)
-            {
-                anim.SetBool("MovDown", false);
-                anim.SetBool("MovUp", true);
-
-                animCap.SetBool("MovDown", false);
-                animCap.SetBool("MovUp", true);
-            }
-            else
-            {
-                anim.SetBool("MovDown", false);
-                anim.SetBool("MovUp", false);
-
-                animCap.SetBool("MovUp", false);
-                animCap.SetBool("MovDown", false);
-            }
-        
-        else
-        {
-            anim.SetBool("MovDown", false);
-            anim.SetBool("MovUp", false);
-            anim.SetBool("MovLeft", false);
-        }*/
-        
 
     }
 

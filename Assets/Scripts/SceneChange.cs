@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 
-public class SceneChange : MonoBehaviour
+public class SceneChange : MonoBehaviour, I_Interactable
 {
     public Vector3 NewPosition;
     public string sceneName;

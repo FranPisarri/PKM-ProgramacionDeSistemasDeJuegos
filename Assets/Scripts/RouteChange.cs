@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class RouteChange: MonoBehaviour
+public class RouteChange: MonoBehaviour, I_Interactable
 {
 
     [SerializeField] GameObject NewRoute;
