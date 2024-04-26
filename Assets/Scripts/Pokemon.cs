@@ -30,7 +30,7 @@ public class Pokemon : MonoBehaviour
         List<MovesData> moves = new List<MovesData>();
         for (int i = 0; i < pokemonData.Moves.Length; i++)
         {
-            if (pokemonData.LvlToLernMove[i] > lvl)
+            if (pokemonData.LvlToLernMove[i] <= lvl)
             {
                 moves.Add(pokemonData.Moves[i]);
             }
