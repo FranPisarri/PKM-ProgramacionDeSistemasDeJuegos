@@ -10,10 +10,17 @@ public class Pokemon : MonoBehaviour
     [SerializeField] private int[] stats = new int[6];
     [SerializeField] private MovesData[] movesDatas = new MovesData[4];
 
+    [SerializeField] private Animator animator;
+    private bool isMyPokemon;
+    private bool isAttacking;
+
+    public bool IsMyPokemon { get { return isMyPokemon; } set { isMyPokemon = value; } }
+    public bool IsAttacking { get { return isAttacking; } set { isAttacking = value; } }
     public PokemonData PokemonData => pokemonData;
     void Start()
     {
         SetStats(lvl);
+        SetAnimation(isMyPokemon);
     }
 
 
@@ -60,5 +67,32 @@ public class Pokemon : MonoBehaviour
     public void SetMoves(int position, MovesData move)
     {
         movesDatas[position] = move;
+    }
+
+    public void SetAnimation( bool isMyPKM)
+    {
+        animator.runtimeAnimatorController = pokemonData.Meshes.PKMAnimation;
+        if(isMyPKM)
+        {
+            animator.SetBool("IsMyPKM", true);
+        }
+        else
+        {
+            animator.SetBool("IsMyPKM", false);
+        }
+
+
+    }
+
+    public void Changeanimation(bool isAtacking)
+    {
+        if(isAtacking)
+        {
+            animator.SetBool("IsAttacking", true);
+        }
+        else
+        {
+            animator.SetBool("IsAttacking", false);
+        }
     }
 }

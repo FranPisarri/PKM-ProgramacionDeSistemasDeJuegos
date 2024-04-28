@@ -21,29 +21,29 @@ public class PokemonFactory : MonoBehaviour
 
     [SerializeField] private GameObject[] pokemons;
 
-    public GameObject GenerateNewPokemon(PokedexID id, int lvl, Vector2 position)
+    public GameObject GenerateNewPokemon(PokedexID id, int lvl)
     {
-        GameObject newPokemon = Instantiate(pokemons[(int)id]);
-
+        GameObject newPokemon = pokemons[(int)id];
+        
         newPokemon.GetComponent<Pokemon>().SetStats(lvl);
         newPokemon.GetComponent<Pokemon>().SetRandomMoves();
-        newPokemon.transform.position = position;
-
+        newPokemon.GetComponent<Pokemon>().IsMyPokemon = false;
+        
         return newPokemon;
     }
 
-    public void GenerateSpecificPokemon(PokedexID id, int lvl, Vector2 position, int[] moves)
+    public GameObject GenerateSpecificPokemon(PokedexID id, int lvl, int[] moves)
     {
         GameObject newPokemon = pokemons[(int)id];
-        Pokemon pokemon = newPokemon.GetComponent<Pokemon>();
 
+        Pokemon pokemon = newPokemon.GetComponent<Pokemon>();
         pokemon.SetStats(lvl);
-        newPokemon.transform.position = position;
         for (int i = 0; i < moves.Length; i++)
         {
             pokemon.SetMoves(i, pokemon.PokemonData.Moves[moves[i]]);
         }
 
+        return newPokemon;
     }
 }
 

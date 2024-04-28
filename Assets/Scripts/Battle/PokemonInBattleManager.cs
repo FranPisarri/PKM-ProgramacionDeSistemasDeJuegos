@@ -10,6 +10,20 @@ public class PokemonInBattleManager : MonoBehaviour
     public List<GameObject> EnemyPokemons => enemyPokemons;
     public List<GameObject> MyPokemons => myPokemons;
 
+    [SerializeField] private Transform enemyPosition;
+    [SerializeField] private Transform allyPosition;
+
+    public void SpawnEnemy()
+    {
+        GameObject newPKM = Instantiate(enemyPokemons[0]);
+        newPKM.transform.position = enemyPosition.position;
+    }
+
+    public void SpawnAlly(int value)
+    {
+        GameObject newPKM = Instantiate(myPokemons[value], allyPosition);
+        newPKM.transform.position = allyPosition.position;
+    }
     public void AddNewEnemy(GameObject enemy)
     {
         enemyPokemons.Add(enemy);

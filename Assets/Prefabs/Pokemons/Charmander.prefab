@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1915722743549140622}
   - component: {fileID: 7871430180144110960}
   - component: {fileID: 8891978803192090640}
+  - component: {fileID: 1064125219871483404}
   m_Layer: 0
   m_Name: Charmander
   m_TagString: Untagged
@@ -98,10 +99,32 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pokemonData: {fileID: 11400000, guid: 224b8bd9f41f7ef43ae7350f2d48b5f3, type: 2}
-  lvl: 1
-  stats: 000000000000000000000000000000000000000000000000
+  lvl: 0
+  stats: 27000000340000002b0000003c0000003200000041000000
   movesDatas:
+  - {fileID: 11400000, guid: a720816b583fbce4693550eb6e0d9ed4, type: 2}
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  - {fileID: 0}
+  animator: {fileID: 1064125219871483404}
+--- !u!95 &1064125219871483404
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 834003810081488827}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

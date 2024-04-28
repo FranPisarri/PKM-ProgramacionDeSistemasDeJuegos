@@ -20,7 +20,7 @@ public class GameManager : MonoBehaviour
     public GameObject[] AllyPokemons => allyPokemons;
 
     private bool isRandomEncounter = false;
-    public bool IsRandomEncounter => isRandomEncounter;
+    public bool IsRandomEncounter { get { return isRandomEncounter; } set { isRandomEncounter = value; } }
 
     private void Awake()
     {
