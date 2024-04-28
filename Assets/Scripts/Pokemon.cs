@@ -71,7 +71,7 @@ public class Pokemon : MonoBehaviour
 
     public void SetAnimation( bool isMyPKM)
     {
-        animator.runtimeAnimatorController = pokemonData.Meshes.PKMAnimation;
+        //animator.runtimeAnimatorController = pokemonData.Meshes.PKMAnimation;
         if(isMyPKM)
         {
             animator.SetBool("IsMyPKM", true);
