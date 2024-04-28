@@ -13,14 +13,21 @@ public class GameManager : MonoBehaviour
     private int lvlNewPokemon;
     public int LvlNewPokemon => lvlNewPokemon;
 
+    [SerializeField] private GameObject[] enemyPokemons;
+    [SerializeField] private GameObject[] allyPokemons;
+
+    public GameObject[] EnemyPokemons => enemyPokemons;
+    public GameObject[] AllyPokemons => allyPokemons;
+
+    private bool isRandomEncounter = false;
+    public bool IsRandomEncounter => isRandomEncounter;
+
     private void Awake()
     {
         if (Instance == null)
         {
             GameManager.Instance = this;
             DontDestroyOnLoad(gameObject);
-
-
         }
         else
         {

@@ -10,6 +10,7 @@ public class Pokemon : MonoBehaviour
     [SerializeField] private int[] stats = new int[6];
     [SerializeField] private MovesData[] movesDatas = new MovesData[4];
 
+    public PokemonData PokemonData => pokemonData;
     void Start()
     {
         SetStats(lvl);

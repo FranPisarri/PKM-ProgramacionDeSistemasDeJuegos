@@ -4,15 +4,29 @@ using UnityEngine;
 
 public class PokemonInBattleManager : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    [SerializeField] private List<GameObject> enemyPokemons = new List<GameObject>();
+    [SerializeField] private List<GameObject> myPokemons = new List<GameObject>();
+
+    public List<GameObject> EnemyPokemons => enemyPokemons;
+    public List<GameObject> MyPokemons => myPokemons;
+
+    public void AddNewEnemy(GameObject enemy)
     {
-        
+        enemyPokemons.Add(enemy);
     }
 
-    // Update is called once per frame
-    void Update()
+    public void AddNewAlly(GameObject ally)
     {
-        
+       myPokemons.Add(ally);
+    }
+
+    public void KillEnemy(GameObject enemy)
+    {
+        enemyPokemons.Remove(enemy);
+    }
+    
+    public void KillAlly(GameObject ally)
+    {
+        myPokemons.Remove(ally);
     }
 }

@@ -6,13 +6,38 @@ public class CreateNewPokemonInBattle : MonoBehaviour
 {
     private GameManager gameManager;
 
+    [SerializeField] private Vector2 enemyPosition;
+    [SerializeField] private PokemonInBattleManager pokeManager;
+
     
     void Start()
     {
         gameManager = GameManager.Instance;
 
-        PokemonFactory.Instance.GeneratePokemon(gameManager.IdNewPokemon, gameManager.LvlNewPokemon);
+        if ( gameManager.IsRandomEncounter)
+        {
+            GenerateRandomEncounter();
+        }
+        else
+        {
+            GenerateTrainerBattle();
+        }
+        
     }
 
-    
+    private void GenerateRandomEncounter()
+    {
+        GameObject newEnemyPokemon = PokemonFactory.Instance.GenerateNewPokemon(gameManager.IdNewPokemon, gameManager.LvlNewPokemon, enemyPosition);
+        pokeManager.AddNewEnemy(newEnemyPokemon);
+    }
+
+    private void GenerateTrainerBattle()
+    {
+        for (int i = 0; i < gameManager.EnemyPokemons.Length; i++)
+        {
+            GameObject newPKM = gameManager.EnemyPokemons[i];
+            pokeManager.AddNewEnemy(newPKM);
+        }
+        Instantiate(pokeManager.EnemyPokemons[0]);
+    }
 }

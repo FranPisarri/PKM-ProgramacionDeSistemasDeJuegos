@@ -7,11 +7,8 @@ public class spawnerPrueba : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        PokemonFactory.Instance.GeneratePokemon(PokedexID.Charmander, 2);
+        //PokemonFactory.Instance.GeneratePokemon(PokedexID.Charmander, 2);
     }
-
-
-
-    //    
+ 
 
 }
