@@ -12,8 +12,9 @@ public class SceneChange : MonoBehaviour, I_Interactable
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        MovPlayer.Instance.SetPosition(NewPosition);
-        SceneManager.LoadScene(sceneName);
+        GameManager.Instance.LoadNewScene(NewPosition, sceneName);
+        //MovPlayer.Instance.SetPosition(NewPosition);
+        //SceneManager.LoadScene(sceneName);
 
     }
 }

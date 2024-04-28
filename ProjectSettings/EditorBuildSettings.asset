@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Interiores.unity
     guid: 569038b6ea6440d489ebd6df0984418d
   - enabled: 1
-    path: Assets/Scenes/MapaExterior1.unity
+    path: Assets/Settings/Scenes/URP2DSceneTemplate.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/MapaExterior2.unity
@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MapaExterior3.unity
     guid: 45e0717c25b451b418042f7b48691e9c
+  - enabled: 1
+    path: Assets/Scenes/Battle.unity
+    guid: 7b9fe769ff6527a44b1fe6c8faa25667
   m_configObjects: {}

@@ -10,8 +10,6 @@ using UnityEngine.Events;
 public class MovPlayer : MonoBehaviour
 {
     public static MovPlayer Instance;
-    public Camera Camera;
-    public CinemachineVirtualCamera VirtualCamera;
 
     public float moveSpeed;
     public Transform movePoint;
@@ -33,8 +31,7 @@ public class MovPlayer : MonoBehaviour
         {
             MovPlayer.Instance = this;
             DontDestroyOnLoad(gameObject);
-            DontDestroyOnLoad(Camera);
-            DontDestroyOnLoad(VirtualCamera);
+            
 
         }
         else
