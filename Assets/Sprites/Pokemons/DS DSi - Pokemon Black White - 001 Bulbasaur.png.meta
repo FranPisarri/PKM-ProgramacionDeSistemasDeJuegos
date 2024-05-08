@@ -1,0 +1,1175 @@
+fileFormatVersion: 2
+guid: 39d6181382f2c2c4eacaa620b771144a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 180
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80955cdd6ef1534282e7855e074d7f3
+      internalID: 1349224253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 180
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cf4cb875ab72449a69ec8c43162412
+      internalID: 712625988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_27
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 180
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae08e37d1abb40c4988036c1e499166f
+      internalID: -10297384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 180
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfbf79a3127eee4fba9a2b3d5e7036b
+      internalID: 1266668982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_29
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 180
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59be2aeafbee5b14488fafad766ab74f
+      internalID: 440819277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_30
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 180
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4495aa45bad8546bbee1a82297569d
+      internalID: 1958417598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_31
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 180
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e5f8f2aed121d40991848488ff7ed8
+      internalID: -2030667506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_32
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 180
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63d392883ffe9a4abdb4131e7cae681
+      internalID: -1644230433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_33
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 180
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e0852b8c85f464aa133deea1f1e10a
+      internalID: 1419094839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_34
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 180
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f365a0ba0385cfe46b7bb2409ca29e7e
+      internalID: -1856669932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_35
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 181
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7958aacbf823944b3aa80066cacb66
+      internalID: 1648988702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 127
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6549bc99d1626e849816eeb274aaa7ac
+      internalID: -1054608431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_49
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 127
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d247b0975562f2946883ea950d02ab03
+      internalID: 1212113074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_50
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 127
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0259cf402708c414cad5fcdcf8654d19
+      internalID: 271070657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_51
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 127
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d84f86563e0a4f4ab0b06e2b7dfb7b2
+      internalID: 1157300299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_52
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 127
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f69e032b48acb7438e54051f06493ce
+      internalID: 1538897512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_53
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 127
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7307ae66d434d40b297088862fd669
+      internalID: 632175411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_54
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 127
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8474cc1c58842f8488dc2e13877c972d
+      internalID: 972605877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_55
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 127
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a5576067a350c47ab0a7fd2567b33b
+      internalID: -1698862819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_56
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 127
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8bc76e3e9cbe345a9fc62d1cf8061b
+      internalID: -347135288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_57
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 127
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a092742db36beba4996131b5baaf344c
+      internalID: 1328200935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_70
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 67
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc835e06eed3d3141b00608e5874ab0a
+      internalID: -1315420055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_71
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 67
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb4b2d4108a0cd4a8de41dc2fecae5e
+      internalID: -94537019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_72
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 67
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a883330ce8ddb58438b91b47cc298912
+      internalID: 1749268319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_73
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 67
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fa8a2ce1aaeef499e053f716aeea24
+      internalID: 313809499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_74
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 67
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7af1280b5a1c240a23fbe194731ff3
+      internalID: -799949064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_75
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 67
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1346418f89f83844b89164016a80447
+      internalID: 1080216492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_76
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 67
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557f3beb10a8a2b4490b2d9bce9c3280
+      internalID: 782491096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_77
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 67
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c27c188c8f1fc419f4350088399a8c
+      internalID: 2145487046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_78
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 67
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878f91678c02d2e46ae986c4823d6024
+      internalID: 814837398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_79
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 67
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4464ff630849eb418e98cd5a3059ac8
+      internalID: -14618877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_80
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 67
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1558229eaaf492d40b60dea494792b6f
+      internalID: -1658577290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_81
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 67
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b33820c61a61c41adc430a05c2d574
+      internalID: 312819379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_94
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dca4840d32f7746bcd1961d3018ba4
+      internalID: -1887227100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_95
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 8
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ee3b4285d8a8742bda4c679f2fa738
+      internalID: 1300642300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_96
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 8
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baaf0f3a69f6500469ed1027edfe99d0
+      internalID: -262057591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_97
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 8
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175427ccc0319d7408d955daa8389535
+      internalID: -675084461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_98
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 8
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b5f40c9ac427d43bd9e5d492f7cb05
+      internalID: -1373013837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_99
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 8
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72dd5b529bc4ee44ba69c7a1c1f14fd
+      internalID: 2043714302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_100
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 8
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54185ec83310f0349b46dfbbbf0a57da
+      internalID: -2061939220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_101
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 8
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8a1654411c55d4f8057c9d2a2c1490
+      internalID: 1464363478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_102
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 8
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd761f6f3ecaea4a86301b3a105968b
+      internalID: -338786493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_103
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 10
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183d2f67f8df14246949e5afbec80892
+      internalID: -2094984841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_104
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 8
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3569cce3c1f51fe42855df7f64522053
+      internalID: 1790055951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 001 Bulbasaur_105
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 8
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be929399b32681e42b8e2da319cfa1f8
+      internalID: 2027067119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Pokemon Black White - 001 Bulbasaur_0: 118091352
+      DS DSi - Pokemon Black White - 001 Bulbasaur_1: 1742719665
+      DS DSi - Pokemon Black White - 001 Bulbasaur_10: 103038086
+      DS DSi - Pokemon Black White - 001 Bulbasaur_100: -2061939220
+      DS DSi - Pokemon Black White - 001 Bulbasaur_101: 1464363478
+      DS DSi - Pokemon Black White - 001 Bulbasaur_102: -338786493
+      DS DSi - Pokemon Black White - 001 Bulbasaur_103: -2094984841
+      DS DSi - Pokemon Black White - 001 Bulbasaur_104: 1790055951
+      DS DSi - Pokemon Black White - 001 Bulbasaur_105: 2027067119
+      DS DSi - Pokemon Black White - 001 Bulbasaur_106: -1555971076
+      DS DSi - Pokemon Black White - 001 Bulbasaur_11: 153618133
+      DS DSi - Pokemon Black White - 001 Bulbasaur_12: -1765416895
+      DS DSi - Pokemon Black White - 001 Bulbasaur_13: -919727532
+      DS DSi - Pokemon Black White - 001 Bulbasaur_14: 516724897
+      DS DSi - Pokemon Black White - 001 Bulbasaur_15: 1126786586
+      DS DSi - Pokemon Black White - 001 Bulbasaur_16: -482173923
+      DS DSi - Pokemon Black White - 001 Bulbasaur_17: 266256697
+      DS DSi - Pokemon Black White - 001 Bulbasaur_18: -796676049
+      DS DSi - Pokemon Black White - 001 Bulbasaur_19: -129150622
+      DS DSi - Pokemon Black White - 001 Bulbasaur_2: 1198345579
+      DS DSi - Pokemon Black White - 001 Bulbasaur_20: -1604502675
+      DS DSi - Pokemon Black White - 001 Bulbasaur_21: -1471237510
+      DS DSi - Pokemon Black White - 001 Bulbasaur_22: -2094844693
+      DS DSi - Pokemon Black White - 001 Bulbasaur_23: 696532954
+      DS DSi - Pokemon Black White - 001 Bulbasaur_24: 691728578
+      DS DSi - Pokemon Black White - 001 Bulbasaur_25: 1349224253
+      DS DSi - Pokemon Black White - 001 Bulbasaur_26: 712625988
+      DS DSi - Pokemon Black White - 001 Bulbasaur_27: -10297384
+      DS DSi - Pokemon Black White - 001 Bulbasaur_28: 1266668982
+      DS DSi - Pokemon Black White - 001 Bulbasaur_29: 440819277
+      DS DSi - Pokemon Black White - 001 Bulbasaur_3: -389511955
+      DS DSi - Pokemon Black White - 001 Bulbasaur_30: 1958417598
+      DS DSi - Pokemon Black White - 001 Bulbasaur_31: -2030667506
+      DS DSi - Pokemon Black White - 001 Bulbasaur_32: -1644230433
+      DS DSi - Pokemon Black White - 001 Bulbasaur_33: 1419094839
+      DS DSi - Pokemon Black White - 001 Bulbasaur_34: -1856669932
+      DS DSi - Pokemon Black White - 001 Bulbasaur_35: 1648988702
+      DS DSi - Pokemon Black White - 001 Bulbasaur_36: 1548475278
+      DS DSi - Pokemon Black White - 001 Bulbasaur_37: -862927367
+      DS DSi - Pokemon Black White - 001 Bulbasaur_38: -1595038037
+      DS DSi - Pokemon Black White - 001 Bulbasaur_39: 1749167903
+      DS DSi - Pokemon Black White - 001 Bulbasaur_4: 15360816
+      DS DSi - Pokemon Black White - 001 Bulbasaur_40: 127489968
+      DS DSi - Pokemon Black White - 001 Bulbasaur_41: -1694579324
+      DS DSi - Pokemon Black White - 001 Bulbasaur_42: -1985179187
+      DS DSi - Pokemon Black White - 001 Bulbasaur_43: -1659054127
+      DS DSi - Pokemon Black White - 001 Bulbasaur_44: 105138075
+      DS DSi - Pokemon Black White - 001 Bulbasaur_45: -597662655
+      DS DSi - Pokemon Black White - 001 Bulbasaur_46: -1961234252
+      DS DSi - Pokemon Black White - 001 Bulbasaur_47: 1607813888
+      DS DSi - Pokemon Black White - 001 Bulbasaur_48: -1054608431
+      DS DSi - Pokemon Black White - 001 Bulbasaur_49: 1212113074
+      DS DSi - Pokemon Black White - 001 Bulbasaur_5: -53276815
+      DS DSi - Pokemon Black White - 001 Bulbasaur_50: 271070657
+      DS DSi - Pokemon Black White - 001 Bulbasaur_51: 1157300299
+      DS DSi - Pokemon Black White - 001 Bulbasaur_52: 1538897512
+      DS DSi - Pokemon Black White - 001 Bulbasaur_53: 632175411
+      DS DSi - Pokemon Black White - 001 Bulbasaur_54: 972605877
+      DS DSi - Pokemon Black White - 001 Bulbasaur_55: -1698862819
+      DS DSi - Pokemon Black White - 001 Bulbasaur_56: -347135288
+      DS DSi - Pokemon Black White - 001 Bulbasaur_57: 1328200935
+      DS DSi - Pokemon Black White - 001 Bulbasaur_58: 389368872
+      DS DSi - Pokemon Black White - 001 Bulbasaur_59: 1122327433
+      DS DSi - Pokemon Black White - 001 Bulbasaur_6: -109474974
+      DS DSi - Pokemon Black White - 001 Bulbasaur_60: 1332467575
+      DS DSi - Pokemon Black White - 001 Bulbasaur_61: 1722234101
+      DS DSi - Pokemon Black White - 001 Bulbasaur_62: -1778400447
+      DS DSi - Pokemon Black White - 001 Bulbasaur_63: -1942261027
+      DS DSi - Pokemon Black White - 001 Bulbasaur_64: 214848025
+      DS DSi - Pokemon Black White - 001 Bulbasaur_65: -1050215222
+      DS DSi - Pokemon Black White - 001 Bulbasaur_66: 1175432898
+      DS DSi - Pokemon Black White - 001 Bulbasaur_67: 1737993799
+      DS DSi - Pokemon Black White - 001 Bulbasaur_68: -1642922899
+      DS DSi - Pokemon Black White - 001 Bulbasaur_69: -1046369703
+      DS DSi - Pokemon Black White - 001 Bulbasaur_7: 897277575
+      DS DSi - Pokemon Black White - 001 Bulbasaur_70: -1315420055
+      DS DSi - Pokemon Black White - 001 Bulbasaur_71: -94537019
+      DS DSi - Pokemon Black White - 001 Bulbasaur_72: 1749268319
+      DS DSi - Pokemon Black White - 001 Bulbasaur_73: 313809499
+      DS DSi - Pokemon Black White - 001 Bulbasaur_74: -799949064
+      DS DSi - Pokemon Black White - 001 Bulbasaur_75: 1080216492
+      DS DSi - Pokemon Black White - 001 Bulbasaur_76: 782491096
+      DS DSi - Pokemon Black White - 001 Bulbasaur_77: 2145487046
+      DS DSi - Pokemon Black White - 001 Bulbasaur_78: 814837398
+      DS DSi - Pokemon Black White - 001 Bulbasaur_79: -14618877
+      DS DSi - Pokemon Black White - 001 Bulbasaur_8: -282474119
+      DS DSi - Pokemon Black White - 001 Bulbasaur_80: -1658577290
+      DS DSi - Pokemon Black White - 001 Bulbasaur_81: 312819379
+      DS DSi - Pokemon Black White - 001 Bulbasaur_82: 2113133174
+      DS DSi - Pokemon Black White - 001 Bulbasaur_83: -31151782
+      DS DSi - Pokemon Black White - 001 Bulbasaur_84: 881782552
+      DS DSi - Pokemon Black White - 001 Bulbasaur_85: -847011225
+      DS DSi - Pokemon Black White - 001 Bulbasaur_86: 692362317
+      DS DSi - Pokemon Black White - 001 Bulbasaur_87: -1924017111
+      DS DSi - Pokemon Black White - 001 Bulbasaur_88: -847088630
+      DS DSi - Pokemon Black White - 001 Bulbasaur_89: 1026600779
+      DS DSi - Pokemon Black White - 001 Bulbasaur_9: -742474250
+      DS DSi - Pokemon Black White - 001 Bulbasaur_90: -1316124883
+      DS DSi - Pokemon Black White - 001 Bulbasaur_91: 1986911951
+      DS DSi - Pokemon Black White - 001 Bulbasaur_92: -485722159
+      DS DSi - Pokemon Black White - 001 Bulbasaur_93: 327462559
+      DS DSi - Pokemon Black White - 001 Bulbasaur_94: -1887227100
+      DS DSi - Pokemon Black White - 001 Bulbasaur_95: 1300642300
+      DS DSi - Pokemon Black White - 001 Bulbasaur_96: -262057591
+      DS DSi - Pokemon Black White - 001 Bulbasaur_97: -675084461
+      DS DSi - Pokemon Black White - 001 Bulbasaur_98: -1373013837
+      DS DSi - Pokemon Black White - 001 Bulbasaur_99: 2043714302
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

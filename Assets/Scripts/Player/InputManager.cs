@@ -5,29 +5,29 @@ using UnityEngine;
 public class InputManager : MonoBehaviour
 {
     private Directions mDirections;
-    public Directions MDiections => mDirections;
+    public Directions MDirections { get => mDirections; set => mDirections = value; }
 
     void Update()
     {
         if (Input.GetKey(KeyCode.W))
         {
-            mDirections = Directions.Up;
+            MDirections = Directions.Up;
         
         }else if (Input.GetKey(KeyCode.S))
         {
-            mDirections = Directions.Down;
+            MDirections = Directions.Down;
         }
         else if (Input.GetKey(KeyCode.A))
         {
-            mDirections = Directions.Left;
+            MDirections = Directions.Left;
         }
         else if (Input.GetKey(KeyCode.D))
         {
-            mDirections = Directions.Right;
+            MDirections = Directions.Right;
         }
         else
         {
-            mDirections = Directions.Stay;
+            MDirections = Directions.Stay;
         }
     }
 }

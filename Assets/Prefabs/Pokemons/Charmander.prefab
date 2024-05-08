@@ -76,7 +76,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 272414168, guid: bb2d0b3eb156cdc44ae4119955208010, type: 3}
-  m_Color: {r: 0.8773585, g: 0.7759682, b: 0.11173906, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -99,8 +99,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pokemonData: {fileID: 11400000, guid: 224b8bd9f41f7ef43ae7350f2d48b5f3, type: 2}
-  lvl: 3
-  stats: 290000003a0000002f00000043000000
+  lvl: 5
+  stats: 2b000000400000003300000045000000
   currentHp: 0
   animator: {fileID: 1064125219871483404}
   OnPokemonDead:

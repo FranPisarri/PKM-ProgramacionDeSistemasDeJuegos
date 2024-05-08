@@ -26,7 +26,8 @@ public class PokemonInBattleManager : MonoBehaviour
 
     public void AddNewAlly(GameObject ally)
     {
-       myPokemons.Add(Instantiate(ally, allyPosition));
+        myPokemons.Add(Instantiate(ally, allyPosition));
+        myPokemons[0].GetComponent<Pokemon>().IsMyPokemon = true;
     }
 
     

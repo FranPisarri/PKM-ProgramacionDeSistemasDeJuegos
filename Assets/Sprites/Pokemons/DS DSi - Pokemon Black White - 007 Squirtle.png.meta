@@ -1,0 +1,1135 @@
+fileFormatVersion: 2
+guid: 156937cfd6439be4ca51b6dba2d3e45e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 381
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177b74dace486c44b835a124c233f1ea
+      internalID: -1560691022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 381
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8f246146c149743bec00f45182fe06
+      internalID: -1342868179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 383
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3755a252ba6180140bcde4be258b8608
+      internalID: -624052450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 381
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b29ab25459e6f94aa5e13b50c0e2059
+      internalID: 906513596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 381
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738f2d09ce4d05c4d8ab8b037891faca
+      internalID: 1623291513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 311
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e3278953b43b1448de5e3d9920087d
+      internalID: 1896580745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 311
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e4451c4eb974d4c86f3bf20fa61477
+      internalID: 1210121139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 309
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc888b6e35fb6c3469b80a04ac247d52
+      internalID: 1837425051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 309
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a728dfe84533c4790bcd7a25e3a8db
+      internalID: 1111827532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_9
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 309
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9971e1ea981d8b4f9d346399023d732
+      internalID: -1070552213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 309
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b355f01cd0e71cb4390df35cd166ad3f
+      internalID: -8361448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 309
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1cccdc6e63fa54d8583603081cf08b
+      internalID: 293759897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_12
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 309
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7055a116e567ab4b8bfa47842216c39
+      internalID: -1608477141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_13
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 309
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdab606d9187f044b9080c97694a8e6
+      internalID: 894449705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 309
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc16e79bc6d4c84ab9eed4aee0fde18
+      internalID: 1468545859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_15
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 309
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a0c08ba1516b84088e6968c70fb868
+      internalID: 228955148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_16
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 309
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bec32d88a4fdf44f9197274c5a2f956
+      internalID: -1555136924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 245
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e716b5b86bbd7f1498e8bf0f4c9e63c9
+      internalID: -761778175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 245
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc28ce1f660d8b8429bf5408379690a0
+      internalID: -1727722002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_19
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 245
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff8f63582dfcaa4db6e2fc2c8371744
+      internalID: -33672400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_20
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 245
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e9b4f00230b844ba1cbd20d9b1c0d0
+      internalID: 1648807422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_21
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 245
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15690b7f56978e4180fb95342ed6bee
+      internalID: 1622929836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_22
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 245
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a0a57a38c99604b88459e93f86b24a
+      internalID: 1358468304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_23
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 147
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a628198de82ca40458499a51e9cccec8
+      internalID: 1770637371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 147
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd6b050521ce7d46bb59b0621a25f61
+      internalID: -245542831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_25
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 149
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f89393927e77546ae936fe9aae3b88
+      internalID: 570074902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_26
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 147
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3b5f3193bc861418463f2044157a9b
+      internalID: 858994622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_27
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 147
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68912a8ac42d004596dde99d6aa50ff
+      internalID: 1475950119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 66
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59a2520b8391f448bca756dc5983b71
+      internalID: 647819585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_29
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e265760c9ba974c82bcaf891641ec6
+      internalID: 194418429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_30
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 66
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345fe6f8e7caf774bbbfff28c3c4366c
+      internalID: -374642726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 64
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b291bd23df0216245864918fef6acd5d
+      internalID: 195444125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_32
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 66
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7826405ebc84e43bf667a4bd67b461
+      internalID: 1314938075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_33
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 66
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a6bd98161b03e48a05df977ff85429
+      internalID: 893328771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_34
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 66
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808f57734ae40474998ced7e051dd9af
+      internalID: 503701201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_35
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 66
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b050122331eb7478338a4b6ca9920e
+      internalID: -1100535924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_36
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 64
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818f1ff618cc6154499cb06e237c8ec2
+      internalID: -1613767153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_37
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 66
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef60178e9b3483640851d1e173811b3e
+      internalID: -1203144448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_38
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 66
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cab3d1a37f6a14db1edb90a054138f
+      internalID: -1891178919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_39
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 66
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131ac4ad4b051ab4c9352273883ed731
+      internalID: 1698122653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fe065a90d1e2743a6c22b1c89d0362
+      internalID: -973849223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_41
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 5
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4601072d6e844428653d2b09b42952
+      internalID: 2086376745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_42
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 5
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18b536edf9acef4b972f41e6a8cc388
+      internalID: -1813766203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_43
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 5
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6fe21b3f0a53c428fcf5aeb0680f39
+      internalID: 1319397244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_44
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 5
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c46be45fe00c004f88f62554d1ec711
+      internalID: -1306945691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 007 Squirtle_45
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 5
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb9ef37628679749b153be883d6900b
+      internalID: -2019403144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Pokemon Black White - 007 Squirtle_0: -1560691022
+      DS DSi - Pokemon Black White - 007 Squirtle_1: -1342868179
+      DS DSi - Pokemon Black White - 007 Squirtle_10: -8361448
+      DS DSi - Pokemon Black White - 007 Squirtle_11: 293759897
+      DS DSi - Pokemon Black White - 007 Squirtle_12: -1608477141
+      DS DSi - Pokemon Black White - 007 Squirtle_13: 894449705
+      DS DSi - Pokemon Black White - 007 Squirtle_14: 1468545859
+      DS DSi - Pokemon Black White - 007 Squirtle_15: 228955148
+      DS DSi - Pokemon Black White - 007 Squirtle_16: -1555136924
+      DS DSi - Pokemon Black White - 007 Squirtle_17: -761778175
+      DS DSi - Pokemon Black White - 007 Squirtle_18: -1727722002
+      DS DSi - Pokemon Black White - 007 Squirtle_19: -33672400
+      DS DSi - Pokemon Black White - 007 Squirtle_2: -624052450
+      DS DSi - Pokemon Black White - 007 Squirtle_20: 1648807422
+      DS DSi - Pokemon Black White - 007 Squirtle_21: 1622929836
+      DS DSi - Pokemon Black White - 007 Squirtle_22: 1358468304
+      DS DSi - Pokemon Black White - 007 Squirtle_23: 1770637371
+      DS DSi - Pokemon Black White - 007 Squirtle_24: -245542831
+      DS DSi - Pokemon Black White - 007 Squirtle_25: 570074902
+      DS DSi - Pokemon Black White - 007 Squirtle_26: 858994622
+      DS DSi - Pokemon Black White - 007 Squirtle_27: 1475950119
+      DS DSi - Pokemon Black White - 007 Squirtle_28: 647819585
+      DS DSi - Pokemon Black White - 007 Squirtle_29: 194418429
+      DS DSi - Pokemon Black White - 007 Squirtle_3: 906513596
+      DS DSi - Pokemon Black White - 007 Squirtle_30: -374642726
+      DS DSi - Pokemon Black White - 007 Squirtle_31: 195444125
+      DS DSi - Pokemon Black White - 007 Squirtle_32: 1314938075
+      DS DSi - Pokemon Black White - 007 Squirtle_33: 893328771
+      DS DSi - Pokemon Black White - 007 Squirtle_34: 503701201
+      DS DSi - Pokemon Black White - 007 Squirtle_35: -1100535924
+      DS DSi - Pokemon Black White - 007 Squirtle_36: -1613767153
+      DS DSi - Pokemon Black White - 007 Squirtle_37: -1203144448
+      DS DSi - Pokemon Black White - 007 Squirtle_38: -1891178919
+      DS DSi - Pokemon Black White - 007 Squirtle_39: 1698122653
+      DS DSi - Pokemon Black White - 007 Squirtle_4: 1623291513
+      DS DSi - Pokemon Black White - 007 Squirtle_40: -973849223
+      DS DSi - Pokemon Black White - 007 Squirtle_41: 2086376745
+      DS DSi - Pokemon Black White - 007 Squirtle_42: -1813766203
+      DS DSi - Pokemon Black White - 007 Squirtle_43: 1319397244
+      DS DSi - Pokemon Black White - 007 Squirtle_44: -1306945691
+      DS DSi - Pokemon Black White - 007 Squirtle_45: -2019403144
+      DS DSi - Pokemon Black White - 007 Squirtle_5: 1896580745
+      DS DSi - Pokemon Black White - 007 Squirtle_6: 1210121139
+      DS DSi - Pokemon Black White - 007 Squirtle_7: 1837425051
+      DS DSi - Pokemon Black White - 007 Squirtle_8: 1111827532
+      DS DSi - Pokemon Black White - 007 Squirtle_9: -1070552213
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

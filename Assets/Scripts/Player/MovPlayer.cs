@@ -45,7 +45,7 @@ public class MovPlayer : MonoBehaviour
         
 
         //bool canMove = Vector3.Distance(transform.position, movePoint.position) == 0f;
-        switch (_inputManager.MDiections)
+        switch (_inputManager.MDirections)
         {
             case Directions.Stay:
 

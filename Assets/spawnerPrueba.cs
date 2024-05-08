@@ -10,7 +10,7 @@ public class spawnerPrueba : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.L))
         {
-            pkm = PokemonFactory.Instance.GenerateSpecificPokemon(PokedexID.Charmander, 2, new int[1]);
+            //pkm = PokemonFactory.Instance.GenerateSpecificPokemon(PokedexID.Charmander, 2, new int[1]);
             pkm = PokemonFactory.Instance.GenerateNewPokemon(/*GameManager.Instance.IdNewPokemon*/ PokedexID.Charmander, GameManager.Instance.LvlNewPokemon);
             pokeManager.AddNewEnemy(pkm);
             pokeManager.ChangeEnemyPKM(0);

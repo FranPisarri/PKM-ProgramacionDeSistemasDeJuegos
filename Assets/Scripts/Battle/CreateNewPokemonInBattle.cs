@@ -22,6 +22,8 @@ public class CreateNewPokemonInBattle : MonoBehaviour
         {
             GenerateTrainerBattle();
         }
+
+        GenerateMyPokemons();
         
     }
 
@@ -39,11 +41,12 @@ public class CreateNewPokemonInBattle : MonoBehaviour
             GameObject newPKM = gameManager.EnemyPokemons[i];
             pokeManager.AddNewEnemy(newPKM);
         }
-        //Instantiate(pokeManager.EnemyPokemons[0]);
     }
 
     private void GenerateMyPokemons()
     {
-
+        GameObject newEnemyPokemon = PokemonFactory.Instance.GenerateSpecificPokemon(GameManager.Instance.AllyPokemons, GameManager.Instance.MyLVL);
+        pokeManager.AddNewAlly(newEnemyPokemon);
+        pokeManager.ChangeAllyPKM(0);
     }
 }

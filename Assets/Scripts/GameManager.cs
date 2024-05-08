@@ -1,9 +1,12 @@
+using UnityEditor.Search;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instance;
+
+    public bool ShowMjs = true;
 
     private PokedexID idNewPokemon;
     public PokedexID IdNewPokemon => idNewPokemon;
@@ -12,13 +15,18 @@ public class GameManager : MonoBehaviour
     public int LvlNewPokemon => lvlNewPokemon;
 
     [SerializeField] private GameObject[] enemyPokemons;
-    [SerializeField] private GameObject[] allyPokemons;
+    [SerializeField] private PokedexID allyPokemons;
+    [SerializeField] private int myLVL;
+
 
     public GameObject[] EnemyPokemons => enemyPokemons;
-    public GameObject[] AllyPokemons => allyPokemons;
+    public PokedexID AllyPokemons => allyPokemons;
+    public int MyLVL { get => myLVL; set => myLVL = value; }
 
     private bool isRandomEncounter = false;
     public bool IsRandomEncounter { get { return isRandomEncounter; } set { isRandomEncounter = value; } }
+
+    
 
     private void Awake()
     {

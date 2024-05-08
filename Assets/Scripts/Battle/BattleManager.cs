@@ -78,7 +78,7 @@ public class BattleManager : MonoBehaviour
         for (int i = 0; i < enemyPKM.GetComponent<Pokemon>().GetDamage(); i++)
         {
             pkmInBattleManager.ModifyAllyHealthBar();
-            yield return new WaitForSeconds(0.1f);
+            yield return new WaitForSeconds(0.2f);
         }
         mjsTab.GetComponentInChildren<TextMeshProUGUI>().text = allyPKM.name + " recibió " + enemyPKM.GetComponent<Pokemon>().GetDamage() + " de daño";
         yield return new WaitUntil(NextPressed);
@@ -97,12 +97,12 @@ public class BattleManager : MonoBehaviour
             }
             else
             {
-                MovPlayer.Instance.gameObject.GetComponent<InputManager>().enabled = true;
+                MovPlayer.Instance.gameObject.SetActive(true);
+                GameManager.Instance.MyLVL--;
                 GameManager.Instance.LoadNewScene(MovPlayer.Instance.gameObject.transform.position, "MapaExterior1");
                 StopAllCoroutines();
             }
             
-            //MUERTE
         }
         else if (attackFirst)
         {
@@ -154,6 +154,7 @@ public class BattleManager : MonoBehaviour
             else
             {
                 MovPlayer.Instance.gameObject.GetComponent<InputManager>().enabled = true;
+                GameManager.Instance.MyLVL++;
                 GameManager.Instance.LoadNewScene(MovPlayer.Instance.gameObject.transform.position, "MapaExterior1");
                 StopAllCoroutines();
             }

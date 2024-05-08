@@ -31,7 +31,7 @@ public class PokemonFactory : MonoBehaviour
         return newPokemon;
     }
 
-    public GameObject GenerateSpecificPokemon(PokedexID id, int lvl, int[] moves)
+    public GameObject GenerateSpecificPokemon(PokedexID id, int lvl)
     {
         GameObject newPokemon = pokemons[(int)id];
 
