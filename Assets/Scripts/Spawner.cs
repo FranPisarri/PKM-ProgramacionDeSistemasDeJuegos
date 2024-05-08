@@ -27,7 +27,8 @@ public class Spawner : MonoBehaviour
             int id = Random.Range(0, routePokemons.Length);
             int lvl = Random.Range(minLevel, maxLevel + 1);
             GameManager.Instance.SetNewPokemonParameters(routePokemons[id], lvl);
-            GameManager.Instance.LoadNewScene(new Vector3(), "Battle");
+            MovPlayer.Instance.gameObject.GetComponent<InputManager>().enabled = false;
+            GameManager.Instance.LoadNewScene(MovPlayer.Instance.gameObject.transform.position, "Battle");
             //PokemonFactory.Instance.GeneratePokemon(routePokemons[id], lvl);
         }
 

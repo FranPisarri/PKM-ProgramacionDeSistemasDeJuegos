@@ -56,9 +56,15 @@ public class Pokemon : MonoBehaviour
         }
     }
 
-    public void Changeanimation(bool isAtacking)
+    public void ChangeAttackState()
     {
-        if(isAtacking)
+        isAttacking = !isAttacking;
+        Changeanimation();
+    }
+
+    public void Changeanimation()
+    {
+        if(isAttacking)
         {
             animator.SetBool("IsAttacking", true);
         }

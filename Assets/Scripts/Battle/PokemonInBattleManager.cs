@@ -1,14 +1,16 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PokemonInBattleManager : MonoBehaviour
 {
     [SerializeField] private List<GameObject> enemyPokemons = new List<GameObject>();
     [SerializeField] private List<GameObject> myPokemons = new List<GameObject>();
-    private int pkmInBattle = 0;
-    private GameObject spawnedEnemy = null;
-    private GameObject spawnedAlly = null;
+    public int enemyInBattle = 0;
+    public int allyInBattle = 0;
+    [SerializeField] private Slider enemyHealthBar;
+    [SerializeField] private Slider allyHealthBar;
 
     public List<GameObject> EnemyPokemons => enemyPokemons;
     public List<GameObject> MyPokemons => myPokemons;
@@ -42,6 +44,9 @@ public class PokemonInBattleManager : MonoBehaviour
                 ally.SetActive(false);
             }
             enemyPokemons[pokeballIndex].SetActive(true);
+            enemyHealthBar.value = enemyPokemons[pokeballIndex].GetComponent<Pokemon>().CurrentHp / enemyPokemons[pokeballIndex].GetComponent<Pokemon>().Stats[0];
+            enemyInBattle = pokeballIndex;
+            BattleManager.instance.EnemyPKM = enemyPokemons[pokeballIndex];
         }
         else
         {
@@ -63,6 +68,9 @@ public class PokemonInBattleManager : MonoBehaviour
                 ally.SetActive(false);
             }
             myPokemons[pokeballIndex].SetActive(true);
+            allyHealthBar.value = myPokemons[pokeballIndex].GetComponent<Pokemon>().CurrentHp / myPokemons[pokeballIndex].GetComponent<Pokemon>().Stats[0];
+            allyInBattle = pokeballIndex;
+            BattleManager.instance.AllyPKM = myPokemons[pokeballIndex];
         }
         else
         {
@@ -70,5 +78,13 @@ public class PokemonInBattleManager : MonoBehaviour
         }
     }
 
-
+    public void ModifyEnemyHealthBar()
+    {
+        enemyHealthBar.value -= 1 / enemyPokemons[enemyInBattle].GetComponent<Pokemon>().Stats[0];
+    }
+    
+    public void ModifyAllyHealthBar()
+    {
+        allyHealthBar.value -= 1 / myPokemons[allyInBattle].GetComponent<Pokemon>().Stats[0];
+    }
 }

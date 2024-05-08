@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Charmeleon
   m_EditorClassIdentifier: 
   type: {fileID: 11400000, guid: a505eeb09639b2445afaa6ca79751b20, type: 2}
-  basicStats: 27000000340000002b0000002b000000
+  basicStats: 05000000340000002b0000002b000000
   statsXLvl: 00000000000000000000000000000000
   meshes: {fileID: 0}
   evolveLvl: 0

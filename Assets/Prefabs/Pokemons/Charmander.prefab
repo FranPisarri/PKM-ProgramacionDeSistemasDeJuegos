@@ -99,10 +99,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pokemonData: {fileID: 11400000, guid: 224b8bd9f41f7ef43ae7350f2d48b5f3, type: 2}
-  lvl: 0
-  stats: 26000000310000002900000040000000
+  lvl: 3
+  stats: 290000003a0000002f00000043000000
   currentHp: 0
   animator: {fileID: 1064125219871483404}
+  OnPokemonDead:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!95 &1064125219871483404
 Animator:
   serializedVersion: 5
