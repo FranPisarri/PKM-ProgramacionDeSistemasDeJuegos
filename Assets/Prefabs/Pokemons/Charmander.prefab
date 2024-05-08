@@ -106,6 +106,7 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  currentHp: 0
   animator: {fileID: 1064125219871483404}
 --- !u!95 &1064125219871483404
 Animator:

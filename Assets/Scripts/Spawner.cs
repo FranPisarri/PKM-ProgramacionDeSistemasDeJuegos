@@ -18,7 +18,7 @@ public class Spawner : MonoBehaviour
     // Update is called once per frame
     private void SpawnPokemon()
     {
-        //Debug.Log("Entra aca");
+        Debug.Log("Entra aca");
         //10 % de probabilidad de que apareca algún pokemon
         int chance = Random.Range(0, 10);
         if (chance < 1)

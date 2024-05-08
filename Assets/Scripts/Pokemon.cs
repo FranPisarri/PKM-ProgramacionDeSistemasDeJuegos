@@ -9,6 +9,7 @@ public class Pokemon : MonoBehaviour
     [SerializeField] private int lvl = 1;
     [SerializeField] private int[] stats = new int[6];
     [SerializeField] private MovesData[] movesDatas = new MovesData[4];
+    [SerializeField] public int currentHp;
 
     [SerializeField] private Animator animator;
     private bool isMyPokemon;
@@ -31,6 +32,11 @@ public class Pokemon : MonoBehaviour
         {
             stats[i] = pokemonData.BasicStats[i] + (lvl - 1) * pokemonData.StatsXLvl[i];
         }
+        if (currentHp == 0)
+        {
+            currentHp = stats[0];
+        }
+        
     }
 
     public void SetRandomMoves()

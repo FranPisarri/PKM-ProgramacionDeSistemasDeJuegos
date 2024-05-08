@@ -1,11 +1,5 @@
-using Cinemachine;
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Events;
-
 
 public class MovPlayer : MonoBehaviour
 {
@@ -31,7 +25,6 @@ public class MovPlayer : MonoBehaviour
         {
             MovPlayer.Instance = this;
             DontDestroyOnLoad(gameObject);
-            
 
         }
         else
@@ -47,96 +40,67 @@ public class MovPlayer : MonoBehaviour
 
     private void Update()
     {
-        transform.position = Vector3.MoveTowards(transform.position, movePoint.position, moveSpeed * Time.deltaTime);
+        var movementCommand = new MovementCommand(transform, movePoint.position, moveSpeed, Time.deltaTime);
+        Event_Queue.Instance.QueueCommand(movementCommand);
+        
 
-
-        if (Vector3.Distance(transform.position, movePoint.position) == 0f)
-        {
-            float movementH = Input.GetAxisRaw("Horizontal");
-            float movementV = Input.GetAxisRaw("Vertical");
-            if (Mathf.Abs(movementH) == 1f)
-            {
-                if (!Physics2D.OverlapCircle(movePoint.position + new Vector3(movementH * 0.16f, 0f, 0f), .05f, whatStopsMovement))
-                {
-                    Walk.Invoke();
-                    movePoint.position += new Vector3(movementH * 0.16f, 0f, 0f);
-
-                }
-            }
-            else if (Mathf.Abs(movementV) == 1f)
-            {
-                if (!Physics2D.OverlapCircle(movePoint.position + new Vector3(0f, movementV * 0.16f, 0f), .05f, whatStopsMovement))
-                {
-                    Walk.Invoke();
-                    movePoint.position += new Vector3(0f, movementV * 0.16f, 0f);
-                }
-
-
-            }
-        }
-
-        switch(_inputManager.MDiections)
+        //bool canMove = Vector3.Distance(transform.position, movePoint.position) == 0f;
+        switch (_inputManager.MDiections)
         {
             case Directions.Stay:
 
-                anim.SetBool("MovLeft", false);
-                animCap.SetBool("MovLeft", false);
-
-                anim.SetBool("MovDown", false);
-                anim.SetBool("MovUp", false);
-
-                animCap.SetBool("MovUp", false);
-                animCap.SetBool("MovDown", false);
+                ChangeAnimation(false, false, false);
                 break;
             case Directions.Up:
-                anim.SetBool("MovDown", false);
-                anim.SetBool("MovUp", true);
 
-                animCap.SetBool("MovDown", false);
-                animCap.SetBool("MovUp", true);
-
-                anim.SetBool("MovLeft", false);
-                animCap.SetBool("MovLeft", false);
+                ChangeAnimation(true, false, false);
+                SetNextPosition(new Vector2(0, 1));
                 break;
             case Directions.Down:
-                anim.SetBool("MovUp", false);
-                anim.SetBool("MovDown", true);
 
-                animCap.SetBool("MovUp", false);
-                animCap.SetBool("MovDown", true);
-
-                anim.SetBool("MovLeft", false);
-                animCap.SetBool("MovLeft", false);
+                ChangeAnimation(false, true, false);
+                SetNextPosition(new Vector2(0, -1));
                 break;
             case Directions.Left:
+
                 sprite.flipX = false;
                 spriteCap.flipX = false;
-                anim.SetBool("MovLeft", true);
-                animCap.SetBool("MovLeft", true);
-
-
-                anim.SetBool("MovDown", false);
-                anim.SetBool("MovUp", false);
-
-                animCap.SetBool("MovUp", false);
-                animCap.SetBool("MovDown", false);
+                ChangeAnimation(false, false, true);
+                SetNextPosition(new Vector2(-1, 0));
                 break;
             case Directions.Right:
+
                 sprite.flipX = true;
                 spriteCap.flipX = true;
-                anim.SetBool("MovLeft", true);
-                animCap.SetBool("MovLeft", true);
+                ChangeAnimation(false, false, true);
+                SetNextPosition(new Vector2(1,0));
 
-
-                anim.SetBool("MovDown", false);
-                anim.SetBool("MovUp", false);
-
-                animCap.SetBool("MovUp", false);
-                animCap.SetBool("MovDown", false);
                 break;
 
         }
 
+    }
+
+    private void ChangeAnimation(bool up, bool down, bool sides)
+    {
+        anim.SetBool("MovLeft", sides);
+        animCap.SetBool("MovLeft", sides);
+
+        anim.SetBool("MovDown", down);
+        anim.SetBool("MovUp", up);
+
+        animCap.SetBool("MovUp", up);
+        animCap.SetBool("MovDown", down);
+
+    }
+
+    private void SetNextPosition(Vector2 direction)
+    {
+        if (Vector3.Distance(transform.position, movePoint.position) == 0f && !Physics2D.OverlapCircle(movePoint.position + new Vector3(direction.x * 0.16f, direction.y * 0.16f, 0f), .05f, whatStopsMovement))
+        {
+            movePoint.position += new Vector3(direction.x * 0.16f, direction.y * 0.16f, 0f);
+            Walk.Invoke();
+        }
     }
 
     public void SetPosition(Vector3 NewPosition)
@@ -146,3 +110,4 @@ public class MovPlayer : MonoBehaviour
 
     }
 }
+
