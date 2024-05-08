@@ -13,9 +13,7 @@ MonoBehaviour:
   m_Name: Charizard
   m_EditorClassIdentifier: 
   type: {fileID: 11400000, guid: a505eeb09639b2445afaa6ca79751b20, type: 2}
-  basicStats: 000000000000000000000000000000000000000000000000
-  statsXLvl: 000000000000000000000000000000000000000000000000
+  basicStats: 05000000000000000000000000000000
+  statsXLvl: 00000000000000000000000000000000
   meshes: {fileID: 0}
-  moves: []
-  lvlToLernMove: 
   evolveLvl: 0

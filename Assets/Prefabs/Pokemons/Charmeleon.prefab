@@ -99,9 +99,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pokemonData: {fileID: 11400000, guid: 3ed9aeca4ca2f3749a384bb629efa358, type: 2}
   lvl: 1
-  stats: 000000000000000000000000000000000000000000000000
-  movesDatas:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  stats: 00000000000000000000000000000000
+  currentHp: 0
+  animator: {fileID: 0}

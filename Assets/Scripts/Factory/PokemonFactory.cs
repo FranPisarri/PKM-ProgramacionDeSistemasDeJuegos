@@ -26,7 +26,6 @@ public class PokemonFactory : MonoBehaviour
         GameObject newPokemon = pokemons[(int)id];
         
         newPokemon.GetComponent<Pokemon>().SetStats(lvl);
-        newPokemon.GetComponent<Pokemon>().SetRandomMoves();
         newPokemon.GetComponent<Pokemon>().IsMyPokemon = false;
         
         return newPokemon;
@@ -38,10 +37,6 @@ public class PokemonFactory : MonoBehaviour
 
         Pokemon pokemon = newPokemon.GetComponent<Pokemon>();
         pokemon.SetStats(lvl);
-        for (int i = 0; i < moves.Length; i++)
-        {
-            pokemon.SetMoves(i, pokemon.PokemonData.Moves[moves[i]]);
-        }
 
         return newPokemon;
     }

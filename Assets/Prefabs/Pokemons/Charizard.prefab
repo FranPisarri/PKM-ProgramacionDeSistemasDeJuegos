@@ -100,12 +100,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pokemonData: {fileID: 11400000, guid: cd3ae0b255d79954b9f0fb8b02a04a75, type: 2}
   lvl: 1
-  stats: 000000000000000000000000000000000000000000000000
-  movesDatas:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  stats: 00000000000000000000000000000000
   currentHp: 0
   animator: {fileID: 401148734768008840}
 --- !u!95 &401148734768008840

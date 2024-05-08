@@ -13,9 +13,7 @@ MonoBehaviour:
   m_Name: Bulbasaur
   m_EditorClassIdentifier: 
   type: {fileID: 11400000, guid: 4c900f99ebe922242a3bd531f5486947, type: 2}
-  basicStats: 000000000000000000000000000000000000000000000000
-  statsXLvl: 000000000000000000000000000000000000000000000000
+  basicStats: 00000000000000000000000000000000
+  statsXLvl: 00000000000000000000000000000000
   meshes: {fileID: 0}
-  moves: []
-  lvlToLernMove: 
   evolveLvl: 0

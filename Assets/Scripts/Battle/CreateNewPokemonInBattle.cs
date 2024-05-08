@@ -29,7 +29,7 @@ public class CreateNewPokemonInBattle : MonoBehaviour
     {
         GameObject newEnemyPokemon = PokemonFactory.Instance.GenerateNewPokemon(gameManager.IdNewPokemon, gameManager.LvlNewPokemon);
         pokeManager.AddNewEnemy(newEnemyPokemon);
-        pokeManager.SpawnEnemy();
+        pokeManager.ChangeEnemyPKM(0);
     }
 
     private void GenerateTrainerBattle()
@@ -40,5 +40,10 @@ public class CreateNewPokemonInBattle : MonoBehaviour
             pokeManager.AddNewEnemy(newPKM);
         }
         //Instantiate(pokeManager.EnemyPokemons[0]);
+    }
+
+    private void GenerateMyPokemons()
+    {
+
     }
 }

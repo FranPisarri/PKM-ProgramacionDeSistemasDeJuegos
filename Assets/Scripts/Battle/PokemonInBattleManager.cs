@@ -19,29 +19,34 @@ public class PokemonInBattleManager : MonoBehaviour
     
     public void AddNewEnemy(GameObject enemy)
     {
-        enemyPokemons.Add(enemy);
+        enemyPokemons.Add(Instantiate(enemy, enemyPosition));
     }
 
     public void AddNewAlly(GameObject ally)
     {
-       myPokemons.Add(ally);
+       myPokemons.Add(Instantiate(ally, allyPosition));
     }
 
-    public void SpawnEnemy()
-    {
-        spawnedEnemy = Instantiate(enemyPokemons[0], enemyPosition);
-    }
-
-    public void SpawnAlly(int value)
-    {
-        spawnedAlly = Instantiate(myPokemons[value], allyPosition);
-        pkmInBattle = value;
-        myPokemons[value] = null;
-    }
     
-    public void ChangeEnemyPKM()
+    public void ChangeEnemyPKM(int pokeballIndex)
     {
-
+        if (pokeballIndex < 0 || pokeballIndex > 5)
+        {
+            Debug.Log("No existe esta pokeball");
+            return;
+        }
+        if (enemyPokemons[pokeballIndex].GetComponent<Pokemon>().CurrentHp > 0)
+        {
+            foreach (GameObject ally in enemyPokemons)
+            {
+                ally.SetActive(false);
+            }
+            enemyPokemons[pokeballIndex].SetActive(true);
+        }
+        else
+        {
+            Debug.Log("Es pokemon está debilitado");
+        }
     }
 
     public void ChangeAllyPKM(int pokeballIndex)
@@ -51,37 +56,19 @@ public class PokemonInBattleManager : MonoBehaviour
             Debug.Log("No existe esta pokeball");
             return;
         }
-
-        myPokemons[pkmInBattle]/*.GetComponent<Pokemon>().currentHp */= spawnedAlly/*.GetComponent<Pokemon>().currentHp*/;
-        KillAlly(spawnedAlly);
-        SpawnAlly(pokeballIndex);
-
-    }
-
-    public void KillEnemy(GameObject enemy)
-    {
-        Destroy(enemy);
-        enemyPokemons.RemoveAt(0);
-    }
-    
-    public void KillAlly(GameObject ally)
-    {
-        Destroy(ally);
-        
-        //myPokemons.Remove(ally);
-    }
-
-
-
-    float time = 0;
-    private void Update()
-    {
-        time += Time.deltaTime;
-        if (time > 2)
+        if (myPokemons[pokeballIndex].GetComponent<Pokemon>().CurrentHp > 0)
         {
-            time = 0;
-            //Debug.Log(eso.GetComponent<Pokemon>().IsMyPokemon);
+            foreach (GameObject ally in myPokemons)
+            {
+                ally.SetActive(false);
+            }
+            myPokemons[pokeballIndex].SetActive(true);
         }
-        
+        else
+        {
+            Debug.Log("Es pokemon está debilitado");
+        }
     }
+
+
 }

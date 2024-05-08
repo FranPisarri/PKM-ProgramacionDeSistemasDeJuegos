@@ -13,17 +13,7 @@ MonoBehaviour:
   m_Name: Charmander
   m_EditorClassIdentifier: 
   type: {fileID: 11400000, guid: a505eeb09639b2445afaa6ca79751b20, type: 2}
-  basicStats: 27000000340000002b0000003c0000003200000041000000
-  statsXLvl: 000000000000000000000000000000000000000000000000
+  basicStats: 27000000340000002b00000041000000
+  statsXLvl: 01000000030000000200000001000000
   meshes: {fileID: 11400000, guid: 0fa31ce4117cac74e8f0c800c0b1afc4, type: 2}
-  moves:
-  - {fileID: 11400000, guid: a720816b583fbce4693550eb6e0d9ed4, type: 2}
-  - {fileID: 11400000, guid: 4d41b1f7a4ff56f4ca70ce33d83d471b, type: 2}
-  - {fileID: 11400000, guid: 60cdbf50d115e4740bf9311ada6f2694, type: 2}
-  - {fileID: 11400000, guid: 0b074a95f2916ea4a97ddabf2d8bbd2f, type: 2}
-  - {fileID: 11400000, guid: 8bd4e4c7b14c7ef4e8842257604aa6ce, type: 2}
-  - {fileID: 11400000, guid: 49531ccdf41dd9548906b2d2f72c2d11, type: 2}
-  - {fileID: 11400000, guid: 345d7a61769f115408d7c3627bbf1bb3, type: 2}
-  - {fileID: 11400000, guid: b8b74a0da8952604895aae8043dd5068, type: 2}
-  lvlToLernMove: 0100000001000000090000000f000000160000001e000000260000002e000000
   evolveLvl: 16

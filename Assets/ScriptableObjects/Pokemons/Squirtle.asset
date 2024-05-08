@@ -13,9 +13,7 @@ MonoBehaviour:
   m_Name: Squirtle
   m_EditorClassIdentifier: 
   type: {fileID: 11400000, guid: 282a2c4a77d84da40b0985fbd105c5f8, type: 2}
-  basicStats: 000000000000000000000000000000000000000000000000
-  statsXLvl: 000000000000000000000000000000000000000000000000
+  basicStats: 00000000000000000000000000000000
+  statsXLvl: 00000000000000000000000000000000
   meshes: {fileID: 0}
-  moves: []
-  lvlToLernMove: 
   evolveLvl: 0
